@@ -19862,3 +19862,2196 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.03.21-16.35.07:428][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 49.1 sec)
 [2026.03.21-16.35.07:429][ 90]AssetCheck: New page: Asset Save: BP_LockedDoor
 [2026.03.21-16.35.07:429][ 90]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_LockedDoor.BP_LockedDoor
+[2026.03.21-16.36.08:901][893]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameState.BP_GameState
+[2026.03.21-16.36.08:901][893]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.36.08:901][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.38.06:530][859]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.38.06:531][859]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.38.06:531][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.38.06:537][859]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.38.06:537][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.38.36:447][540]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.21-16.38.48:397][136]LogEditorTransaction: Undo Changed Anchors
+[2026.03.21-16.38.57:672][617]LogEditorTransaction: Undo Edit Left
+[2026.03.21-16.39.01:164][781]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12153.250000
+[2026.03.21-16.39.01:507][801]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-16.39.01:507][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12153.576172, Update Interval: 356.447632
+[2026.03.21-16.39.26:886][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.39.26:985][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_HUD" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset" SILENT=true
+[2026.03.21-16.39.26:988][279]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_HUD
+[2026.03.21-16.39.26:988][279]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/WBP_HUD678CEB3446D9C79F6D6FF2ADD5D1FDE6.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset'
+[2026.03.21-16.39.26:998][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 49.2 sec)
+[2026.03.21-16.39.26:999][279]AssetCheck: New page: Asset Save: WBP_HUD
+[2026.03.21-16.39.26:999][279]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.39.28:294][353]BlueprintLog: New page: Compile WBP_HUD
+[2026.03.21-16.39.28:327][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.21-16.39.33:679][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.39.33:778][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_HUD" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset" SILENT=true
+[2026.03.21-16.39.33:782][626]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_HUD
+[2026.03.21-16.39.33:782][626]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/WBP_HUD1C31434040028EA1B7EB49AC519B147D.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset'
+[2026.03.21-16.39.33:792][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 49.3 sec)
+[2026.03.21-16.39.33:794][626]AssetCheck: New page: Asset Save: WBP_HUD
+[2026.03.21-16.39.33:794][626]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.39.34:990][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.39.35:074][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_HUD" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset" SILENT=true
+[2026.03.21-16.39.35:077][695]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_HUD
+[2026.03.21-16.39.35:078][695]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/WBP_HUD19BDA0A5439FDCB2691C83A96F108CB1.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset'
+[2026.03.21-16.39.35:088][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 49.4 sec)
+[2026.03.21-16.39.35:090][695]AssetCheck: New page: Asset Save: WBP_HUD
+[2026.03.21-16.39.35:090][695]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.39.36:674][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.39.36:767][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_HUD" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset" SILENT=true
+[2026.03.21-16.39.36:770][770]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_HUD
+[2026.03.21-16.39.36:770][770]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/WBP_HUD48261C0E48ADA3B89DFB01809491473D.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset'
+[2026.03.21-16.39.36:780][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 49.5 sec)
+[2026.03.21-16.39.36:783][770]AssetCheck: New page: Asset Save: WBP_HUD
+[2026.03.21-16.39.36:783][770]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.40.13:573][994]BlueprintLog: New page: Compile WBP_HUD
+[2026.03.21-16.40.13:596][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.21-16.40.14:336][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.40.14:460][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_HUD" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset" SILENT=true
+[2026.03.21-16.40.14:463][995]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_HUD
+[2026.03.21-16.40.14:463][995]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/WBP_HUDD1E130F54AE928ADE946038FDFC6C24C.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset'
+[2026.03.21-16.40.14:471][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 49.7 sec)
+[2026.03.21-16.40.14:472][995]AssetCheck: New page: Asset Save: WBP_HUD
+[2026.03.21-16.40.14:472][995]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.40.16:344][100]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.40.16:344][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.40.16:351][100]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.40.16:351][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.40.17:389][148]LogSlate: Window 'BP_GameState' being destroyed
+[2026.03.21-16.40.17:398][148]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.40.17:398][148]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.40.58:717][283]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.40.58:718][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.40.58:718][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.40.58:725][283]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.40.58:725][283]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.41.06:954][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.41.07:064][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_HUD" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset" SILENT=true
+[2026.03.21-16.41.07:067][751]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_HUD
+[2026.03.21-16.41.07:067][751]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/WBP_HUD8E5D6A334BA2AF7F72A6ACB236E6052E.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset'
+[2026.03.21-16.41.07:075][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 49.8 sec)
+[2026.03.21-16.41.07:076][751]AssetCheck: New page: Asset Save: WBP_HUD
+[2026.03.21-16.41.07:076][751]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.41.09:277][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.41.09:402][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_HUD" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset" SILENT=true
+[2026.03.21-16.41.09:405][845]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_HUD
+[2026.03.21-16.41.09:405][845]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/WBP_HUD8A9C8764415E375A5F7F12A7D50625FF.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset'
+[2026.03.21-16.41.09:415][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 49.9 sec)
+[2026.03.21-16.41.09:417][845]AssetCheck: New page: Asset Save: WBP_HUD
+[2026.03.21-16.41.09:417][845]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.41.13:281][960]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.03.21-16.41.13:283][960]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.03.21-16.41.13:323][960]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.41.13:323][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.41.13:329][960]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.41.13:329][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.41.16:934][138]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_GameState.BP_GameState
+[2026.03.21-16.41.16:934][138]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.41.16:934][138]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.41.19:924][305]LogSlate: Window 'BP_GameState' being destroyed
+[2026.03.21-16.41.19:932][305]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.41.19:932][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.41.22:063][412]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Scenes/Scene_1.Scene_1:PersistentLevel.Scene
+[2026.03.21-16.41.22:063][412]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.41.22:064][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.43.16:189][871]BlueprintLog: New page: Compile Scene
+[2026.03.21-16.43.16:231][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.21-16.43.16:665][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.43.16:781][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.21-16.43.16:806][890]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.21-16.43.16:807][890]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/Scene_1D32AEF9B4BDF54710E00BC9334AAA893.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.21-16.43.16:811][890]LogFileHelpers: Saving map 'Scene_1' took 0.055
+[2026.03.21-16.43.16:821][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 50.1 sec)
+[2026.03.21-16.43.16:824][890]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.21-16.43.16:824][890]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.21-16.43.19:179][ 29]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-16.43.19:184][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-16.43.19:184][ 29]PIE: New page: PIE session: Scene_1 (Mar 22, 2026, 6:43:19 AM)
+[2026.03.21-16.43.19:215][ 29]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.43.19:218][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002815s)
+[2026.03.21-16.43.19:218][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.002844s)
+[2026.03.21-16.43.19:228][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.21-16.43.19:235][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.43.19:235][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.43.19:235][ 29]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.21-16.43.19:235][ 29]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2026.03.21-16.43.19:235][ 29]LogAudio: Display: Creating Audio Device:                 Id: 150, Scope: Unique, Realtime: True
+[2026.03.21-16.43.19:236][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-16.43.19:236][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-16.43.19:236][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-16.43.19:236][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-16.43.19:236][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-16.43.19:236][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-16.43.19:236][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-16.43.19:236][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-16.43.19:236][ 29]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-16.43.19:236][ 29]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-16.43.19:236][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-16.43.19:238][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-16.43.19:348][ 29]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.21-16.43.19:348][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-16.43.19:348][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-16.43.19:349][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-16.43.19:349][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=150
+[2026.03.21-16.43.19:349][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=150
+[2026.03.21-16.43.19:351][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=150
+[2026.03.21-16.43.19:351][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=150
+[2026.03.21-16.43.19:351][ 29]LogInit: FAudioDevice initialized with ID 150.
+[2026.03.21-16.43.19:351][ 29]LogAudio: Display: Audio Device (ID: 150) registered with world 'Scene_1'.
+[2026.03.21-16.43.19:351][ 29]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 150
+[2026.03.21-16.43.19:353][ 29]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-16.43.19:355][ 29]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.21-23.43.19
+[2026.03.21-16.43.19:355][ 29]LogWorld: Bringing up level for play took: 0.000963
+[2026.03.21-16.43.19:357][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_253
+[2026.03.21-16.43.19:359][ 29]PIE: Server logged in
+[2026.03.21-16.43.19:360][ 29]PIE: Play in editor total start time 0.176 seconds.
+[2026.03.21-16.43.22:044][185]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.21-16.43.22:694][224]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.21-16.43.23:018][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.43.23:019][241]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.43.23:019][241]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.43.23:019][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.43.23:023][241]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-16.43.23:026][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.43.23:038][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.21-16.43.23:038][241]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 150
+[2026.03.21-16.43.23:038][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=150
+[2026.03.21-16.43.23:040][241]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=150
+[2026.03.21-16.43.23:044][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.43.23:046][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.21-16.43.23:110][242]LogPlayLevel: Display: Destroying online subsystem :Context_253
+[2026.03.21-16.43.32:897][797]BlueprintLog: New page: Compile Scene
+[2026.03.21-16.43.32:922][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.21-16.43.33:319][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.43.33:452][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.03.21-16.43.33:478][813]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.21-16.43.33:478][813]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/Scene_1064148D645588A22D355B888A09F1C6C.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.21-16.43.33:483][813]LogFileHelpers: Saving map 'Scene_1' took 0.056
+[2026.03.21-16.43.33:492][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 50.3 sec)
+[2026.03.21-16.43.33:495][813]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.21-16.43.33:495][813]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.21-16.43.37:603][ 58]LogSlate: Window 'Scene' being destroyed
+[2026.03.21-16.43.37:646][ 58]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.43.37:646][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.43.39:057][132]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.43.39:057][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.43.39:057][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.43.39:064][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.43.39:064][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.43.48:781][672]BlueprintLog: New page: Compile WBP_HUD
+[2026.03.21-16.43.48:804][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.03.21-16.43.49:523][673]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.43.49:643][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/WBP_HUD" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset" SILENT=true
+[2026.03.21-16.43.49:646][673]LogSavePackage: Moving output files for package: /Game/Blueprints/WBP_HUD
+[2026.03.21-16.43.49:647][673]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/WBP_HUD7E57C9E34CF72F1F0A8BED88019E3C5A.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset'
+[2026.03.21-16.43.49:654][673]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 50.4 sec)
+[2026.03.21-16.43.49:655][673]AssetCheck: New page: Asset Save: WBP_HUD
+[2026.03.21-16.43.49:655][673]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.21-16.43.50:354][713]LogSlate: Window 'WBP_HUD' being destroyed
+[2026.03.21-16.43.50:616][713]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.43.50:616][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.43.50:622][713]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.43.50:622][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.43.50:990][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-16.43.50:995][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-16.43.50:995][732]PIE: New page: PIE session: Scene_1 (Mar 22, 2026, 6:43:50 AM)
+[2026.03.21-16.43.51:026][732]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.43.51:028][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002731s)
+[2026.03.21-16.43.51:029][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.002761s)
+[2026.03.21-16.43.51:042][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.21-16.43.51:058][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.43.51:058][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.43.51:058][732]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.21-16.43.51:059][732]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2026.03.21-16.43.51:059][732]LogAudio: Display: Creating Audio Device:                 Id: 151, Scope: Unique, Realtime: True
+[2026.03.21-16.43.51:059][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-16.43.51:059][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-16.43.51:059][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-16.43.51:059][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-16.43.51:059][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-16.43.51:059][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-16.43.51:059][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-16.43.51:059][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-16.43.51:059][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-16.43.51:059][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-16.43.51:059][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-16.43.51:061][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-16.43.51:169][732]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.21-16.43.51:169][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-16.43.51:169][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-16.43.51:169][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-16.43.51:170][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=151
+[2026.03.21-16.43.51:170][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=151
+[2026.03.21-16.43.51:172][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=151
+[2026.03.21-16.43.51:172][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=151
+[2026.03.21-16.43.51:172][732]LogInit: FAudioDevice initialized with ID 151.
+[2026.03.21-16.43.51:172][732]LogAudio: Display: Audio Device (ID: 151) registered with world 'Scene_1'.
+[2026.03.21-16.43.51:172][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 151
+[2026.03.21-16.43.51:174][732]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-16.43.51:175][732]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.21-23.43.51
+[2026.03.21-16.43.51:175][732]LogWorld: Bringing up level for play took: 0.000933
+[2026.03.21-16.43.51:177][732]LogOnline: OSS: Created online subsystem instance for: :Context_256
+[2026.03.21-16.43.51:179][732]PIE: Server logged in
+[2026.03.21-16.43.51:180][732]PIE: Play in editor total start time 0.184 seconds.
+[2026.03.21-16.43.53:641][876]LogBlueprintUserMessages: [BP_SpeedPowerUp_C_1] true
+[2026.03.21-16.43.54:870][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.43.54:870][947]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.43.54:871][947]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.43.54:871][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.43.54:874][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-16.43.54:878][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.43.54:889][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.21-16.43.54:890][947]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 151
+[2026.03.21-16.43.54:890][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=151
+[2026.03.21-16.43.54:891][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=151
+[2026.03.21-16.43.54:897][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.43.54:899][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.21-16.43.54:961][948]LogPlayLevel: Display: Destroying online subsystem :Context_256
+[2026.03.21-16.44.01:768][307]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Scenes/Scene_1.Scene_1:PersistentLevel.Scene
+[2026.03.21-16.44.01:769][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.44.01:769][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.44.12:267][782]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.21-16.44.12:276][782]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.21-16.44.12:283][782]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.21-16.44.12:294][783]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.21-16.44.14:954][941]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Goal
+[2026.03.21-16.44.14:960][941]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.21-16.44.16:064][  6]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Goal.BP_Goal
+[2026.03.21-16.44.16:064][  6]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.44.16:064][  6]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.44.16:190][  6]LogViewport: Scene viewport resized to 1514x1004, mode Windowed.
+[2026.03.21-16.44.20:472][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.44.39:242][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Key_Lv1.BP_Key_Lv1
+[2026.03.21-16.44.39:242][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.44.39:242][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.45.10:676][913]BlueprintLog: New page: Compile BP_Goal
+[2026.03.21-16.45.10:705][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.21-16.45.11:117][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.45.11:249][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Goal" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_Goal.uasset" SILENT=true
+[2026.03.21-16.45.11:253][934]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Goal
+[2026.03.21-16.45.11:253][934]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/BP_GoalA4D8BE0148F141727208AC9A02884A2D.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_Goal.uasset'
+[2026.03.21-16.45.11:266][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 50.5 sec)
+[2026.03.21-16.45.11:267][934]AssetCheck: New page: Asset Save: BP_Goal
+[2026.03.21-16.45.11:267][934]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Goal.BP_Goal
+[2026.03.21-16.45.50:232][169]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Goal.BP_Goal_C
+[2026.03.21-16.45.50:232][169]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Goal.BP_Goal_C
+[2026.03.21-16.45.50:233][169]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Goal.BP_Goal as actor: BP_Goal_C /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_Goal_C_0
+[2026.03.21-16.45.50:234][169]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Goal.BP_Goal as actor: BP_Goal_C /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_Goal_C_0
+[2026.03.21-16.45.51:301][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Goal.BP_Goal_C
+[2026.03.21-16.45.51:301][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/BP_Goal.BP_Goal_C
+[2026.03.21-16.45.51:303][227]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Goal.BP_Goal as actor: BP_Goal_C /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_Goal_C_1
+[2026.03.21-16.45.51:304][227]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/BP_Goal.BP_Goal as actor: BP_Goal_C /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_Goal_C_1
+[2026.03.21-16.45.56:209][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12568.219727
+[2026.03.21-16.45.56:659][529]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.21-16.45.56:659][529]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12568.653320, Update Interval: 329.790344
+[2026.03.21-16.46.27:276][186]BlueprintLog: New page: Compile Scene
+[2026.03.21-16.46.27:321][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.21-16.46.27:646][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.46.27:775][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.21-16.46.27:799][199]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.21-16.46.27:800][199]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/Scene_18BB433054880D31A7F9DD8830706A711.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.21-16.46.27:805][199]LogFileHelpers: Saving map 'Scene_1' took 0.056
+[2026.03.21-16.46.27:813][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 50.7 sec)
+[2026.03.21-16.46.27:816][199]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.21-16.46.27:816][199]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.21-16.46.29:353][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-16.46.29:371][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-16.46.29:371][287]PIE: New page: PIE session: Scene_1 (Mar 22, 2026, 6:46:29 AM)
+[2026.03.21-16.46.29:400][287]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.46.29:403][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002868s)
+[2026.03.21-16.46.29:403][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.002898s)
+[2026.03.21-16.46.29:413][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.21-16.46.29:419][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.46.29:419][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.46.29:420][287]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.21-16.46.29:420][287]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2026.03.21-16.46.29:420][287]LogAudio: Display: Creating Audio Device:                 Id: 152, Scope: Unique, Realtime: True
+[2026.03.21-16.46.29:420][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-16.46.29:420][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-16.46.29:420][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-16.46.29:420][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-16.46.29:420][287]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-16.46.29:420][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-16.46.29:420][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-16.46.29:420][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-16.46.29:420][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-16.46.29:420][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-16.46.29:420][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-16.46.29:422][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-16.46.29:530][287]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.21-16.46.29:530][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-16.46.29:530][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-16.46.29:530][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-16.46.29:531][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=152
+[2026.03.21-16.46.29:531][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=152
+[2026.03.21-16.46.29:533][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=152
+[2026.03.21-16.46.29:533][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=152
+[2026.03.21-16.46.29:533][287]LogInit: FAudioDevice initialized with ID 152.
+[2026.03.21-16.46.29:533][287]LogAudio: Display: Audio Device (ID: 152) registered with world 'Scene_1'.
+[2026.03.21-16.46.29:533][287]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 152
+[2026.03.21-16.46.29:535][287]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-16.46.29:536][287]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.21-23.46.29
+[2026.03.21-16.46.29:537][287]LogWorld: Bringing up level for play took: 0.000957
+[2026.03.21-16.46.29:539][287]LogOnline: OSS: Created online subsystem instance for: :Context_261
+[2026.03.21-16.46.29:541][287]PIE: Server logged in
+[2026.03.21-16.46.29:542][287]PIE: Play in editor total start time 0.184 seconds.
+[2026.03.21-16.46.34:193][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.46.34:193][559]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.46.34:193][559]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.46.34:193][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.46.34:232][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-16.46.34:236][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.46.34:249][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.46.34:250][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 152
+[2026.03.21-16.46.34:250][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=152
+[2026.03.21-16.46.34:252][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=152
+[2026.03.21-16.46.34:256][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.03.21-16.46.34:324][560]LogPlayLevel: Display: Destroying online subsystem :Context_261
+[2026.03.21-16.46.44:079][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.46.44:193][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.03.21-16.46.44:219][103]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.21-16.46.44:220][103]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/Scene_1337CC45D408446B82C871DAE28D2DA5D.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.21-16.46.44:224][103]LogFileHelpers: Saving map 'Scene_1' took 0.057
+[2026.03.21-16.46.44:246][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 50.9 sec)
+[2026.03.21-16.46.44:247][103]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.21-16.46.44:247][103]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.21-16.46.44:962][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-16.46.44:967][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-16.46.44:967][142]PIE: New page: PIE session: Scene_1 (Mar 22, 2026, 6:46:44 AM)
+[2026.03.21-16.46.44:967][142]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.46.44:970][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003230s)
+[2026.03.21-16.46.44:970][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.003258s)
+[2026.03.21-16.46.44:980][142]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.21-16.46.44:986][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.46.44:986][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.46.44:986][142]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.21-16.46.44:987][142]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2026.03.21-16.46.44:987][142]LogAudio: Display: Creating Audio Device:                 Id: 153, Scope: Unique, Realtime: True
+[2026.03.21-16.46.44:987][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-16.46.44:987][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-16.46.44:987][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-16.46.44:987][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-16.46.44:987][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-16.46.44:987][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-16.46.44:987][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-16.46.44:987][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-16.46.44:987][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-16.46.44:987][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-16.46.44:987][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-16.46.44:989][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-16.46.45:096][142]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.21-16.46.45:096][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-16.46.45:096][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-16.46.45:096][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-16.46.45:097][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=153
+[2026.03.21-16.46.45:097][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=153
+[2026.03.21-16.46.45:099][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=153
+[2026.03.21-16.46.45:099][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=153
+[2026.03.21-16.46.45:099][142]LogInit: FAudioDevice initialized with ID 153.
+[2026.03.21-16.46.45:099][142]LogAudio: Display: Audio Device (ID: 153) registered with world 'Scene_1'.
+[2026.03.21-16.46.45:099][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 153
+[2026.03.21-16.46.45:102][142]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-16.46.45:103][142]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.21-23.46.45
+[2026.03.21-16.46.45:103][142]LogWorld: Bringing up level for play took: 0.001032
+[2026.03.21-16.46.45:105][142]LogOnline: OSS: Created online subsystem instance for: :Context_262
+[2026.03.21-16.46.45:107][142]PIE: Server logged in
+[2026.03.21-16.46.45:108][142]PIE: Play in editor total start time 0.142 seconds.
+[2026.03.21-16.46.47:550][283]LogBlueprintUserMessages: [BP_SpeedPowerUp_C_1] true
+[2026.03.21-16.46.49:335][390]LogBlueprintUserMessages: [BP_Key_Lv1_C_7] Total Key log: 1
+[2026.03.21-16.46.49:935][426]LogBlueprintUserMessages: [BP_Key_Lv1_C_6] Total Key log: 2
+[2026.03.21-16.46.50:401][454]LogBlueprintUserMessages: [BP_Key_Lv1_C_1] Total Key log: 3
+[2026.03.21-16.46.50:401][454]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:418][455]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:434][456]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:435][456]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.46.50:451][457]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:468][458]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:484][459]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:501][460]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:518][461]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:534][462]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:551][463]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:567][464]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:584][465]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:601][466]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:618][467]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:634][468]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:651][469]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:668][470]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:684][471]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:701][472]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:718][473]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:734][474]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:751][475]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:767][476]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:784][477]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:801][478]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:818][479]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:835][480]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:851][481]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:868][482]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:885][483]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:901][484]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:918][485]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:935][486]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:952][487]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:967][488]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.50:984][489]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:001][490]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:017][491]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:035][492]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:052][493]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:069][494]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:085][495]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:101][496]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:118][497]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:135][498]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:151][499]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:167][500]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:184][501]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:200][502]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:217][503]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:234][504]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:251][505]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:268][506]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:284][507]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:301][508]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:318][509]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:335][510]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:352][511]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:368][512]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:384][513]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:401][514]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:418][515]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:435][516]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:451][517]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:468][518]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:484][519]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:501][520]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:517][521]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:534][522]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:551][523]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:568][524]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:584][525]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:601][526]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:618][527]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:635][528]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:651][529]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:667][530]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:684][531]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:701][532]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:717][533]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:735][534]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:751][535]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:767][536]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:785][537]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:801][538]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:818][539]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:834][540]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:851][541]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:867][542]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:885][543]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:901][544]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:918][545]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:935][546]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:951][547]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:967][548]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.51:984][549]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:001][550]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:018][551]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:035][552]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:053][553]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:068][554]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:084][555]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:101][556]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:118][557]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:134][558]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:151][559]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:167][560]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:185][561]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:201][562]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:218][563]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:235][564]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:250][565]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:268][566]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:284][567]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:301][568]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:318][569]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:335][570]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:351][571]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:368][572]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:384][573]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:401][574]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:418][575]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:434][576]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:451][577]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:468][578]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:485][579]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:501][580]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:518][581]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:534][582]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:551][583]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:568][584]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:584][585]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:601][586]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:618][587]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:635][588]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:651][589]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:668][590]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:684][591]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:701][592]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:718][593]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:734][594]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:751][595]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:768][596]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:784][597]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:801][598]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:818][599]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:834][600]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:851][601]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:867][602]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:884][603]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:901][604]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:918][605]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:935][606]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:951][607]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:968][608]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.52:984][609]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:001][610]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:018][611]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:034][612]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:052][613]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:068][614]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:085][615]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:101][616]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:118][617]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:134][618]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:152][619]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:168][620]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:185][621]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:202][622]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:218][623]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:235][624]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:252][625]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:268][626]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:284][627]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:301][628]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:318][629]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:334][630]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:351][631]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:368][632]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:384][633]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:401][634]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:418][635]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:435][636]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:451][637]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:468][638]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:484][639]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:501][640]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:518][641]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:535][642]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:551][643]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:567][644]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:584][645]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:601][646]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:617][647]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:635][648]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:651][649]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:668][650]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:684][651]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:701][652]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:717][653]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:734][654]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:752][655]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:768][656]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:784][657]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:801][658]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:818][659]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:834][660]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:851][661]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:868][662]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:884][663]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:901][664]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:918][665]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:935][666]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:951][667]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:968][668]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.53:985][669]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:001][670]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:018][671]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:034][672]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:051][673]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:068][674]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:085][675]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:101][676]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:117][677]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:134][678]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:151][679]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:168][680]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:184][681]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:201][682]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:218][683]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:235][684]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:251][685]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:268][686]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:286][687]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:302][688]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:318][689]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:334][690]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:351][691]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:368][692]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:385][693]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:401][694]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:417][695]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:434][696]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:451][697]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:468][698]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:484][699]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:501][700]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:517][701]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:534][702]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:551][703]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:568][704]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:568][704]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.46.54:585][705]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:601][706]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:618][707]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:635][708]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:651][709]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:667][710]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:684][711]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:702][712]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:718][713]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:735][714]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:751][715]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:767][716]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:784][717]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:801][718]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:818][719]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:834][720]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:851][721]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:868][722]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:883][723]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:900][724]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:918][725]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:935][726]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:951][727]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:968][728]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.54:984][729]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:001][730]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:018][731]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:035][732]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:052][733]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:068][734]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:084][735]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:101][736]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:118][737]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:134][738]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:151][739]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:168][740]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:184][741]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:202][742]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:217][743]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:234][744]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:251][745]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:268][746]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:284][747]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:301][748]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:318][749]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:334][750]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:352][751]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:368][752]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:385][753]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:402][754]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:418][755]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:435][756]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:451][757]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:468][758]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:485][759]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:501][760]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:518][761]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:535][762]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:552][763]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:568][764]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:584][765]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:602][766]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:619][767]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:635][768]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:651][769]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:668][770]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:684][771]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:702][772]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:718][773]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:734][774]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:751][775]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:768][776]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:785][777]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:801][778]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:817][779]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:834][780]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:851][781]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:868][782]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:884][783]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:901][784]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:919][785]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:935][786]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:952][787]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:968][788]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.55:985][789]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:001][790]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:018][791]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:035][792]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:051][793]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:068][794]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:085][795]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:101][796]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:118][797]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:135][798]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:152][799]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:168][800]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:185][801]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:202][802]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:218][803]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:234][804]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:250][805]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:268][806]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:284][807]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:301][808]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:318][809]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:334][810]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:351][811]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:368][812]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:385][813]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:401][814]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:418][815]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:435][816]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:451][817]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:468][818]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:484][819]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:501][820]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:518][821]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:535][822]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:552][823]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:568][824]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:585][825]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:601][826]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:618][827]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:634][828]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:651][829]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:668][830]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:685][831]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:701][832]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:718][833]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:735][834]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:752][835]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:768][836]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:784][837]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:802][838]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:818][839]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:835][840]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:851][841]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:868][842]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:884][843]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:901][844]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:918][845]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:935][846]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:951][847]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:967][848]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.56:985][849]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:001][850]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:018][851]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:035][852]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:051][853]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:067][854]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:085][855]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:101][856]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:118][857]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:134][858]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:151][859]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:167][860]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:185][861]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:201][862]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:218][863]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:234][864]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:251][865]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:251][865]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.46.57:268][866]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:284][867]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:301][868]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:318][869]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:335][870]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:351][871]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:368][872]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:385][873]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:401][874]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:417][875]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:435][876]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:451][877]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:468][878]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:484][879]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:501][880]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:518][881]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:534][882]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:551][883]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:568][884]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:585][885]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:601][886]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:617][887]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:635][888]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:651][889]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:668][890]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:685][891]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:701][892]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:718][893]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:735][894]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:751][895]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:768][896]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:784][897]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:802][898]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:817][899]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:834][900]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:850][901]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:867][902]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:884][903]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:901][904]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:918][905]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:934][906]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:952][907]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:968][908]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.57:984][909]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:001][910]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:018][911]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:035][912]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:052][913]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:068][914]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:084][915]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:101][916]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:118][917]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:135][918]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:151][919]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:168][920]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:184][921]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:201][922]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:218][923]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:236][924]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:251][925]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:267][926]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:285][927]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:302][928]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:319][929]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:335][930]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:352][931]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:368][932]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:384][933]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:401][934]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:417][935]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:435][936]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:451][937]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:468][938]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:485][939]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:501][940]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:518][941]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:534][942]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:551][943]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:568][944]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:586][945]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:601][946]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:618][947]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:635][948]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:651][949]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:667][950]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:684][951]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:701][952]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:718][953]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:735][954]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:751][955]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:767][956]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:785][957]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:800][958]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:818][959]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:835][960]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:851][961]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:868][962]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:885][963]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:901][964]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:918][965]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:935][966]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:951][967]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:967][968]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.58:984][969]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:001][970]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:018][971]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:035][972]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:052][973]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:068][974]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:085][975]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:101][976]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:118][977]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:134][978]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:151][979]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:168][980]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:185][981]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:201][982]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:218][983]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:234][984]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:252][985]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:268][986]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:285][987]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:301][988]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:319][989]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:335][990]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:351][991]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:368][992]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:385][993]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:401][994]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:418][995]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:435][996]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:451][997]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:469][998]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:485][999]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:502][  0]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:518][  1]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:534][  2]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:551][  3]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:568][  4]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:585][  5]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:601][  6]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:618][  7]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:635][  8]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:651][  9]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:668][ 10]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:685][ 11]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:702][ 12]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:718][ 13]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:735][ 14]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:752][ 15]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:769][ 16]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:785][ 17]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:801][ 18]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:819][ 19]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:836][ 20]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:851][ 21]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:869][ 22]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:885][ 23]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:902][ 24]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:918][ 25]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:935][ 26]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:952][ 27]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:968][ 28]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.46.59:985][ 29]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:001][ 30]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:018][ 31]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:035][ 32]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:051][ 33]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:068][ 34]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:084][ 35]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:101][ 36]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:118][ 37]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:135][ 38]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:152][ 39]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:169][ 40]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:185][ 41]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:201][ 42]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:218][ 43]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:235][ 44]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:252][ 45]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:270][ 46]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:285][ 47]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:301][ 48]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:318][ 49]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:335][ 50]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:351][ 51]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:368][ 52]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:386][ 53]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:401][ 54]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:418][ 55]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:435][ 56]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:452][ 57]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:468][ 58]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:485][ 59]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:501][ 60]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:518][ 61]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:534][ 62]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:552][ 63]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:568][ 64]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:585][ 65]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:601][ 66]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:617][ 67]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:635][ 68]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:651][ 69]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:668][ 70]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:684][ 71]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:701][ 72]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:718][ 73]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:735][ 74]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:751][ 75]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:768][ 76]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:785][ 77]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:801][ 78]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:817][ 79]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:835][ 80]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:851][ 81]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:869][ 82]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:885][ 83]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:901][ 84]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:918][ 85]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:936][ 86]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:952][ 87]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:968][ 88]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.00:985][ 89]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:002][ 90]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:018][ 91]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:036][ 92]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:051][ 93]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:069][ 94]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:085][ 95]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:101][ 96]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:119][ 97]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:135][ 98]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:152][ 99]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:168][100]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:185][101]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:202][102]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:218][103]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:235][104]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:251][105]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:268][106]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:285][107]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:302][108]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:318][109]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:335][110]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:351][111]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:368][112]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:386][113]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:401][114]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:418][115]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:435][116]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:452][117]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:468][118]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:485][119]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:502][120]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:518][121]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:535][122]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:551][123]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:568][124]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:586][125]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:602][126]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:618][127]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:635][128]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:652][129]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:668][130]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:685][131]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:701][132]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:718][133]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:735][134]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:752][135]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:769][136]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:786][137]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:802][138]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:819][139]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:835][140]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:852][141]LogBlueprintUserMessages: [BP_SpikeEnemy_C_1] Player hit
+[2026.03.21-16.47.01:852][141]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:852][141]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.47.01:868][142]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:885][143]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:901][144]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:918][145]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:935][146]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:952][147]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:967][148]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.01:985][149]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:001][150]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:018][151]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:035][152]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:051][153]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:068][154]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:085][155]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:101][156]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:119][157]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:136][158]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:152][159]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:169][160]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:185][161]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:201][162]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:218][163]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:235][164]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:251][165]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:268][166]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:285][167]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:301][168]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:318][169]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:335][170]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:351][171]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:368][172]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:384][173]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:402][174]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:418][175]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:436][176]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:452][177]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:469][178]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:485][179]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:501][180]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:518][181]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:535][182]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:552][183]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:568][184]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:585][185]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:601][186]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:618][187]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:635][188]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:651][189]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:668][190]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:685][191]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:701][192]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:718][193]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:735][194]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:751][195]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:768][196]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:785][197]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:801][198]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:818][199]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:835][200]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:853][201]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.21-16.47.02:854][201]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:868][202]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:885][203]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:902][204]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:918][205]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:936][206]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:952][207]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:968][208]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.02:985][209]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:001][210]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:019][211]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:035][212]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:052][213]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:068][214]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:085][215]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:101][216]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:118][217]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:136][218]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:151][219]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:169][220]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:186][221]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:202][222]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:218][223]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:235][224]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:252][225]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:268][226]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:286][227]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:301][228]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:319][229]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:335][230]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:351][231]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:369][232]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:385][233]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:402][234]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:418][235]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:436][236]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:452][237]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:469][238]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:485][239]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:501][240]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:518][241]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:535][242]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:552][243]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:568][244]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:585][245]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:602][246]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:618][247]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:635][248]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:652][249]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:668][250]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:685][251]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:701][252]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:719][253]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:735][254]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:752][255]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:769][256]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:785][257]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:801][258]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:818][259]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:835][260]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:852][261]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:869][262]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:885][263]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:901][264]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:918][265]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:935][266]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:952][267]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:968][268]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.03:985][269]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:002][270]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:018][271]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:036][272]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:052][273]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:069][274]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:085][275]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:101][276]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:118][277]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:135][278]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:151][279]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:168][280]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:185][281]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:201][282]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:218][283]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:235][284]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:252][285]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:268][286]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:285][287]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:301][288]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:319][289]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:335][290]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:352][291]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:368][292]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:385][293]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:401][294]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:418][295]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:435][296]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:452][297]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:468][298]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:484][299]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:501][300]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:518][301]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:535][302]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:552][303]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:569][304]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:585][305]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:602][306]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:602][306]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.47.04:618][307]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:635][308]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.47.04:665][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.47.04:665][308]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.47.04:665][308]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.47.04:665][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.47.04:670][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-16.47.04:674][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.47.04:686][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.47.04:687][308]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 153
+[2026.03.21-16.47.04:687][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=153
+[2026.03.21-16.47.04:689][308]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=153
+[2026.03.21-16.47.04:695][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.21-16.47.04:763][309]LogPlayLevel: Display: Destroying online subsystem :Context_262
+[2026.03.21-16.47.29:727][543]LogSlate: Window 'BP_Key_Lv1' being destroyed
+[2026.03.21-16.47.29:731][543]LogSlate: Window 'BP_Key_Lv1' being destroyed
+[2026.03.21-16.47.29:735][543]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.47.29:735][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.47.29:840][543]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.47.29:841][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.47.29:913][543]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.21-16.47.29:913][543]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.47.29:913][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.47.31:153][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_LockedDoor.BP_LockedDoor
+[2026.03.21-16.47.31:153][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.47.31:153][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.48.11:575][890]BlueprintLog: New page: Compile BP_LockedDoor
+[2026.03.21-16.48.11:605][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.21-16.48.12:044][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.48.12:169][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_LockedDoor" FILE="../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_LockedDoor.uasset" SILENT=true
+[2026.03.21-16.48.12:173][911]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_LockedDoor
+[2026.03.21-16.48.12:174][911]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/BP_LockedDoor02D9D37948E20AE60471E0BE0BCA0A7F.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_LockedDoor.uasset'
+[2026.03.21-16.48.12:184][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 51.0 sec)
+[2026.03.21-16.48.12:187][911]AssetCheck: New page: Asset Save: BP_LockedDoor
+[2026.03.21-16.48.12:187][911]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_LockedDoor.BP_LockedDoor
+[2026.03.21-16.48.12:522][929]LogSlate: Window 'BP_LockedDoor' being destroyed
+[2026.03.21-16.48.12:532][929]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.48.12:532][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.48.13:274][969]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.21-16.48.13:279][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.21-16.48.13:279][969]PIE: New page: PIE session: Scene_1 (Mar 22, 2026, 6:48:13 AM)
+[2026.03.21-16.48.13:302][969]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.48.13:305][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002812s)
+[2026.03.21-16.48.13:305][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.002841s)
+[2026.03.21-16.48.13:316][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.21-16.48.13:326][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.21-16.48.13:326][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.21-16.48.13:327][969]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.21-16.48.13:327][969]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2026.03.21-16.48.13:327][969]LogAudio: Display: Creating Audio Device:                 Id: 154, Scope: Unique, Realtime: True
+[2026.03.21-16.48.13:327][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.21-16.48.13:327][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.21-16.48.13:327][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.21-16.48.13:327][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.21-16.48.13:327][969]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.21-16.48.13:327][969]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.21-16.48.13:327][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.21-16.48.13:327][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.21-16.48.13:327][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.21-16.48.13:327][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.21-16.48.13:327][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.21-16.48.13:329][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.21-16.48.13:435][969]LogAudioMixer: Display: Using Audio Hardware Device Speaker (Realtek(R) Audio)
+[2026.03.21-16.48.13:435][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.21-16.48.13:435][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.21-16.48.13:435][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.21-16.48.13:436][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=154
+[2026.03.21-16.48.13:436][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=154
+[2026.03.21-16.48.13:438][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=154
+[2026.03.21-16.48.13:438][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=154
+[2026.03.21-16.48.13:438][969]LogInit: FAudioDevice initialized with ID 154.
+[2026.03.21-16.48.13:438][969]LogAudio: Display: Audio Device (ID: 154) registered with world 'Scene_1'.
+[2026.03.21-16.48.13:438][969]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 154
+[2026.03.21-16.48.13:440][969]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.21-16.48.13:441][969]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.21-23.48.13
+[2026.03.21-16.48.13:441][969]LogWorld: Bringing up level for play took: 0.000962
+[2026.03.21-16.48.13:443][969]LogOnline: OSS: Created online subsystem instance for: :Context_264
+[2026.03.21-16.48.13:445][969]PIE: Server logged in
+[2026.03.21-16.48.13:446][969]PIE: Play in editor total start time 0.166 seconds.
+[2026.03.21-16.48.16:076][123]LogBlueprintUserMessages: [BP_Key_Lv1_C_1] Total Key log: 1
+[2026.03.21-16.48.16:959][176]LogBlueprintUserMessages: [BP_Key_Lv1_C_6] Total Key log: 2
+[2026.03.21-16.48.17:760][224]LogBlueprintUserMessages: [BP_Key_Lv1_C_7] Total Key log: 3
+[2026.03.21-16.48.17:760][224]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:775][225]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:793][226]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:808][227]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:826][228]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:842][229]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:859][230]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:876][231]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:892][232]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:909][233]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:926][234]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:943][235]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:959][236]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:976][237]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.17:992][238]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:009][239]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:026][240]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:042][241]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:059][242]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:076][243]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:093][244]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:109][245]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:125][246]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:142][247]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:159][248]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:176][249]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:192][250]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:209][251]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:226][252]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:242][253]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:259][254]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:276][255]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:292][256]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:308][257]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:326][258]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:342][259]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:360][260]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:375][261]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:392][262]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:409][263]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:426][264]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:442][265]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:458][266]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:476][267]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:493][268]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:509][269]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:526][270]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:543][271]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:559][272]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:577][273]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:593][274]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:610][275]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:626][276]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:642][277]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:658][278]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:675][279]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:692][280]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:709][281]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:726][282]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:742][283]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:759][284]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:776][285]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:792][286]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:809][287]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:826][288]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:842][289]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:859][290]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:876][291]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:892][292]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:909][293]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:926][294]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:942][295]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:959][296]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:976][297]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.18:992][298]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:010][299]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:026][300]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:043][301]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:059][302]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:076][303]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:093][304]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:109][305]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:126][306]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:143][307]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:159][308]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:176][309]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:193][310]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:209][311]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:226][312]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:242][313]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:258][314]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:276][315]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:293][316]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:309][317]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:325][318]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:342][319]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:359][320]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:376][321]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:392][322]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:409][323]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:426][324]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:443][325]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:460][326]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:475][327]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:493][328]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:509][329]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:525][330]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:543][331]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:560][332]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:576][333]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:593][334]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:609][335]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:626][336]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:642][337]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:659][338]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:676][339]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:693][340]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:710][341]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:727][342]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:743][343]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:759][344]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:776][345]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:793][346]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:810][347]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:827][348]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:843][349]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:859][350]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:876][351]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:892][352]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:910][353]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:926][354]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:942][355]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:959][356]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:976][357]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.19:993][358]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:009][359]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:026][360]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:043][361]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:059][362]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:076][363]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:093][364]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:109][365]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:127][366]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:142][367]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:160][368]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:176][369]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:193][370]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:210][371]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:226][372]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:243][373]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:259][374]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:275][375]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:292][376]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:309][377]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:327][378]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:343][379]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:359][380]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:376][381]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:393][382]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:409][383]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:426][384]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:443][385]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:459][386]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:476][387]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:493][388]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:510][389]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:526][390]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:542][391]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:559][392]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:576][393]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:593][394]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:610][395]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:626][396]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:643][397]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:659][398]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:676][399]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:693][400]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:709][401]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:726][402]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:743][403]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:759][404]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:776][405]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:792][406]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:809][407]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:826][408]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:842][409]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:860][410]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:875][411]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:892][412]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:909][413]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:926][414]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:943][415]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:959][416]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:976][417]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.20:992][418]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:009][419]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:026][420]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:042][421]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:059][422]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:076][423]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:092][424]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:109][425]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:125][426]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:142][427]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:159][428]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:176][429]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:192][430]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:210][431]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:226][432]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:242][433]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:259][434]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:276][435]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:292][436]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:309][437]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:326][438]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:343][439]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:359][440]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:376][441]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:393][442]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:409][443]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:426][444]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:442][445]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:459][446]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:476][447]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:492][448]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:509][449]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:526][450]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:542][451]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:559][452]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:576][453]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:593][454]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:593][454]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.48.21:609][455]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:626][456]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:642][457]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:659][458]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:675][459]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:692][460]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:709][461]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:726][462]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:742][463]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:759][464]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:776][465]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:793][466]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:809][467]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:826][468]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:842][469]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:859][470]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:876][471]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:892][472]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:908][473]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:925][474]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:942][475]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:960][476]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:975][477]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.21:992][478]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:009][479]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:026][480]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:043][481]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:059][482]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:076][483]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:093][484]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:110][485]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:126][486]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:143][487]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:160][488]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:176][489]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:193][490]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:210][491]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:226][492]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:243][493]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:259][494]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:277][495]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:293][496]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:311][497]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:326][498]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:343][499]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:359][500]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:377][501]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:393][502]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:410][503]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:427][504]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:443][505]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:460][506]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:476][507]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:492][508]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:509][509]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:526][510]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:542][511]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:559][512]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:576][513]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:593][514]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:609][515]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:626][516]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:643][517]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:660][518]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:676][519]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:693][520]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:710][521]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:727][522]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:743][523]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:760][524]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:776][525]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:793][526]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:809][527]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:826][528]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:842][529]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:859][530]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:876][531]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:892][532]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:909][533]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:926][534]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:943][535]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:959][536]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:976][537]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.22:992][538]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:009][539]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:026][540]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:042][541]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:061][542]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:076][543]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:093][544]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:109][545]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:126][546]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:143][547]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:159][548]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:176][549]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:193][550]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:209][551]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:226][552]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:243][553]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:260][554]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:276][555]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:293][556]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:309][557]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:326][558]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:343][559]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:359][560]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:376][561]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:393][562]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:409][563]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:427][564]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:443][565]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:459][566]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:476][567]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:492][568]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:510][569]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:526][570]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:543][571]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:559][572]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:559][572]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.48.23:576][573]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:593][574]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:609][575]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:626][576]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:643][577]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:659][578]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:676][579]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:692][580]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:709][581]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:726][582]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:742][583]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:759][584]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:776][585]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:793][586]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:809][587]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:826][588]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:842][589]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:859][590]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:875][591]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:892][592]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:909][593]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:925][594]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:942][595]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:959][596]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:976][597]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.23:993][598]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:009][599]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:027][600]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:043][601]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:060][602]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:076][603]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:093][604]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:110][605]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:126][606]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:143][607]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:160][608]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:177][609]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:194][610]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:209][611]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:226][612]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:243][613]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:260][614]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:276][615]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:292][616]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:309][617]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:326][618]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:343][619]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:360][620]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:376][621]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:393][622]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:410][623]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:426][624]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:443][625]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:459][626]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:476][627]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:493][628]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:509][629]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:525][630]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:543][631]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:559][632]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:576][633]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:592][634]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:610][635]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:626][636]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:642][637]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:659][638]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:676][639]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:693][640]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:710][641]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:725][642]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:742][643]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:759][644]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:776][645]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:793][646]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:809][647]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:826][648]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:842][649]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:860][650]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:876][651]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:893][652]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:909][653]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:926][654]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:943][655]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:960][656]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:976][657]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.24:992][658]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:009][659]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:026][660]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:043][661]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:060][662]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:077][663]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:092][664]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:110][665]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:126][666]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:143][667]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:159][668]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:176][669]LogBlueprintUserMessages: [BP_SpikeEnemy_C_1] Player hit
+[2026.03.21-16.48.25:176][669]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:176][669]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.48.25:192][670]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:209][671]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:227][672]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:242][673]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:259][674]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:276][675]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:292][676]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:310][677]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:326][678]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:342][679]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:359][680]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:376][681]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:393][682]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:409][683]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:426][684]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:443][685]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:459][686]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:476][687]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:492][688]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:510][689]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:526][690]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:543][691]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:560][692]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:577][693]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:593][694]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:609][695]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:626][696]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:643][697]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:660][698]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:676][699]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:693][700]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:710][701]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:727][702]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:743][703]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:759][704]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:776][705]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:793][706]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:810][707]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:826][708]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:843][709]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:860][710]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:876][711]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:893][712]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:909][713]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:926][714]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:943][715]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:960][716]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:976][717]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.25:993][718]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:010][719]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:026][720]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:042][721]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:060][722]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:076][723]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:092][724]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:109][725]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:126][726]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:142][727]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:160][728]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:176][729]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:193][730]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:210][731]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:226][732]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:242][733]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:259][734]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:276][735]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:292][736]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:309][737]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:326][738]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:343][739]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:359][740]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:376][741]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:392][742]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:409][743]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:426][744]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:443][745]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:459][746]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:476][747]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:493][748]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:509][749]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:526][750]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:543][751]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:560][752]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:576][753]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:592][754]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:609][755]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:625][756]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:643][757]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:659][758]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:676][759]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:693][760]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:709][761]LogBlueprintUserMessages: [BP_SpikeEnemy_C_1] Player hit
+[2026.03.21-16.48.26:709][761]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:709][761]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.48.26:726][762]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:743][763]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:760][764]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:776][765]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:793][766]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:809][767]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:826][768]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:843][769]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:859][770]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:876][771]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:893][772]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:909][773]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:926][774]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:942][775]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:959][776]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:976][777]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.26:993][778]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:009][779]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:026][780]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:043][781]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:060][782]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:077][783]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:093][784]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:109][785]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:126][786]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:143][787]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:159][788]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:176][789]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:192][790]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:209][791]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:226][792]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:242][793]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:259][794]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:276][795]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:293][796]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:310][797]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:326][798]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:343][799]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:359][800]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:376][801]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:392][802]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:409][803]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:437][804]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:444][805]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:461][806]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:478][807]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:501][808]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:511][809]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:528][810]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:545][811]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:562][812]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:578][813]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:595][814]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:612][815]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:628][816]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:646][817]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:661][818]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:678][819]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:695][820]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:712][821]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:729][822]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:745][823]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:761][824]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:779][825]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:795][826]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:812][827]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:828][828]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:845][829]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:860][830]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:878][831]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:895][832]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:911][833]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:928][834]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:945][835]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:961][836]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:978][837]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.27:995][838]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:010][839]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:028][840]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:045][841]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:061][842]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:078][843]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:095][844]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:111][845]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:128][846]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:145][847]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:162][848]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:178][849]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:195][850]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:212][851]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:228][852]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:245][853]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:261][854]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:278][855]LogBlueprintUserMessages: [BP_SpikeEnemy_C_1] Player hit
+[2026.03.21-16.48.28:278][855]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:278][855]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.48.28:295][856]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:311][857]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:327][858]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:345][859]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:361][860]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:378][861]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:394][862]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:412][863]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:428][864]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:445][865]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:462][866]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:478][867]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:495][868]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:512][869]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:528][870]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:545][871]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:562][872]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:578][873]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:595][874]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:612][875]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:628][876]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:644][877]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:662][878]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:678][879]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:695][880]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:712][881]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:729][882]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:744][883]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:761][884]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:779][885]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:794][886]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:811][887]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:828][888]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:844][889]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:862][890]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:878][891]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:895][892]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:911][893]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:928][894]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:944][895]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:961][896]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:978][897]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.28:995][898]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:011][899]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:028][900]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:045][901]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:061][902]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:078][903]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:095][904]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:112][905]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:128][906]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:144][907]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:161][908]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:178][909]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:195][910]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:212][911]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:228][912]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:244][913]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:261][914]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:278][915]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:295][916]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:312][917]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:328][918]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:345][919]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:362][920]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:378][921]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:395][922]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:411][923]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:428][924]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:445][925]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:461][926]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:478][927]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:495][928]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:512][929]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:528][930]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:544][931]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:562][932]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:578][933]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:594][934]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:611][935]LogBlueprintUserMessages: [BP_SpikeEnemy_C_1] Player hit
+[2026.03.21-16.48.29:612][935]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:612][935]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.48.29:628][936]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:645][937]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:661][938]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:678][939]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:695][940]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:711][941]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:728][942]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:744][943]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:762][944]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:778][945]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:795][946]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:811][947]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:828][948]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:845][949]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:862][950]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:878][951]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:895][952]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:911][953]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:928][954]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:945][955]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:961][956]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:978][957]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.29:995][958]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:011][959]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:028][960]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:044][961]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:062][962]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:079][963]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:095][964]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:111][965]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:128][966]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:145][967]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:162][968]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:178][969]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:195][970]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:213][971]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:228][972]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:245][973]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:262][974]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:278][975]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:295][976]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:312][977]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:328][978]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:344][979]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:361][980]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:378][981]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:395][982]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:412][983]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:428][984]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:444][985]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:462][986]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:478][987]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:495][988]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:512][989]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:528][990]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:545][991]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:561][992]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:578][993]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:595][994]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:612][995]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:628][996]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:645][997]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:661][998]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:678][999]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:695][  0]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:711][  1]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:728][  2]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:744][  3]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:761][  4]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:778][  5]LogBlueprintUserMessages: [BP_SpikeEnemy_C_1] Player hit
+[2026.03.21-16.48.30:778][  5]LogBlueprintUserMessages: [BP_SpikeEnemy_C_1] Player hit
+[2026.03.21-16.48.30:778][  5]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:778][  5]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.21-16.48.30:794][  6]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:811][  7]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:828][  8]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:844][  9]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:862][ 10]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:878][ 11]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:895][ 12]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:910][ 13]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:928][ 14]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:944][ 15]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:962][ 16]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:979][ 17]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.30:996][ 18]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:012][ 19]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:028][ 20]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:044][ 21]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:061][ 22]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:078][ 23]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:095][ 24]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:111][ 25]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:128][ 26]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:145][ 27]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:162][ 28]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:178][ 29]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:195][ 30]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:212][ 31]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:228][ 32]LogBlueprintUserMessages: [Scene_C_18] next lv
+[2026.03.21-16.48.31:256][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.48.31:256][ 32]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.21-16.48.31:256][ 32]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.21-16.48.31:256][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.48.31:260][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.21-16.48.31:264][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.21-16.48.31:279][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.21-16.48.31:279][ 32]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 154
+[2026.03.21-16.48.31:279][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=154
+[2026.03.21-16.48.31:280][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=154
+[2026.03.21-16.48.31:285][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.21-16.48.31:287][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.21-16.48.31:361][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_264
+[2026.03.21-16.48.31:826][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.48.31:964][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.21-16.48.31:990][ 57]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.21-16.48.31:990][ 57]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/Scene_100A626024619227A62955097C94C7662.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.21-16.48.31:995][ 57]LogFileHelpers: Saving map 'Scene_1' took 0.057
+[2026.03.21-16.48.32:013][ 57]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 51.2 sec)
+[2026.03.21-16.48.32:015][ 57]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.21-16.48.32:015][ 57]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.21-16.48.32:605][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.21-16.48.32:755][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.21-16.48.32:777][ 90]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.21-16.48.32:778][ 90]LogSavePackage: Moving '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Saved/Scene_1D734EFF843FE1A5F44E776B45040D634.tmp' to '../../../../../../Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.21-16.48.32:783][ 90]LogFileHelpers: Saving map 'Scene_1' took 0.051
+[2026.03.21-16.48.32:791][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 51.4 sec)
+[2026.03.21-16.48.32:792][ 90]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.21-16.48.32:792][ 90]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
