@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap",
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/ThirdPerson/Blueprints/BP_CubeController.uasset",
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset",
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset",
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset",
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_Key_Lv1.uasset",
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_GameState.uasset",
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/WBP_HUD.uasset",
 				"D:/CMU/VistualScript/CubedeEscape/Content/StarterContent/Shapes/Shape_Cone.uasset"
 			]
 		}
