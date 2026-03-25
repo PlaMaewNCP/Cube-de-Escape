@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap",
+				"D:/CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_PlayerProjectile.uasset",
+				"D:/CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset",
+				"D:/CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_ShootPowerUp.uasset",
+				"D:/CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpeedPowerUp.uasset",
 				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap",
 				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/ThirdPerson/Blueprints/BP_CubeController.uasset",
 				"C:/Users/OMEN/Documents/GitHub/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset",
