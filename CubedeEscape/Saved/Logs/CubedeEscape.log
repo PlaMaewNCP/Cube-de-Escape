@@ -1441,3 +1441,451 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.03.26-18.19.59:508][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 583 ms)
 [2026.03.26-18.19.59:511][325]AssetCheck: New page: Asset Save: Scene_1
 [2026.03.26-18.19.59:511][325]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.26-18.21.00:973][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CubeController.BP_CubeController
+[2026.03.26-18.21.00:974][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.26-18.21.00:974][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.26-18.21.03:249][902]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2026.03.26-18.21.05:250][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.26-18.21.06:197][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-18.21.06:273][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CubeController" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset" SILENT=true
+[2026.03.26-18.21.06:296][ 30]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CubeController
+[2026.03.26-18.21.06:296][ 30]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_CubeController793AC2AD47C7977B445482BF42B004F5.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset'
+[2026.03.26-18.21.06:307][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 693 ms)
+[2026.03.26-18.21.06:308][ 30]AssetCheck: New page: Asset Save: BP_CubeController
+[2026.03.26-18.21.06:308][ 30]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CubeController.BP_CubeController
+[2026.03.26-18.22.34:128][  4]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-18.22.34:192][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CubeController" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset" SILENT=true
+[2026.03.26-18.22.34:209][  4]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CubeController
+[2026.03.26-18.22.34:210][  4]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_CubeController248CB71F4118330ED6D52191A0374D6B.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset'
+[2026.03.26-18.22.34:221][  4]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 785 ms)
+[2026.03.26-18.22.34:222][  4]AssetCheck: New page: Asset Save: BP_CubeController
+[2026.03.26-18.22.34:222][  4]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CubeController.BP_CubeController
+[2026.03.26-18.23.20:053][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 975.614197
+[2026.03.26-18.23.21:055][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-18.23.21:055][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 976.281067, Update Interval: 332.802521
+[2026.03.26-18.29.05:820][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1321.381836
+[2026.03.26-18.29.06:821][553]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-18.29.06:821][553]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1322.048462, Update Interval: 301.329376
+[2026.03.26-18.30.07:784][734]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.26-18.31.12:134][926]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.26-18.31.31:659][198]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2026.03.26-18.33.13:138][916]LogSlate: Took 0.009152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.26-18.34.26:277][208]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1641.839111
+[2026.03.26-18.34.27:290][211]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-18.34.27:290][211]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1642.571899, Update Interval: 311.413300
+[2026.03.26-18.40.11:434][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1986.996582
+[2026.03.26-18.40.12:757][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-18.40.12:757][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1987.983276, Update Interval: 353.585632
+[2026.03.26-18.46.58:011][194]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2393.585693
+[2026.03.26-18.46.59:007][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-18.46.59:008][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2394.261230, Update Interval: 339.277313
+[2026.03.26-18.53.26:946][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2782.522949
+[2026.03.26-18.53.27:942][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-18.53.27:942][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2783.179932, Update Interval: 356.132690
+[2026.03.26-18.54.45:675][595]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2026.03.26-18.55.25:985][280]BlueprintLog: New page: Compile BP_SpikeEnemy
+[2026.03.26-18.55.26:136][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2026.03.26-18.55.52:607][225]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-18.55.53:612][252]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-18.56.23:673][281]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-18.57.25:719][540]LogEditorTransaction: Undo Set Location
+[2026.03.26-18.57.26:023][542]LogEditorTransaction: Undo Remove Components
+[2026.03.26-18.59.48:110][784]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.48:110][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_SpikeEnemy' Component: '/Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh' 
+[2026.03.26-18.59.48:111][784]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.48:111][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_SpikeEnemy' Component: '/Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh' 
+[2026.03.26-18.59.48:111][784]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.48:111][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_SpikeEnemy' Component: '/Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh' 
+[2026.03.26-18.59.48:111][784]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.48:112][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_SpikeEnemy' Component: '/Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh' 
+[2026.03.26-18.59.48:112][784]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.48:112][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.48:115][784]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.48:115][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.48:116][784]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.48:116][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.48:116][784]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.48:116][784]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.48:122][784]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Addition to navoctree)
+[2026.03.26-18.59.52:922][960]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:923][960]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.52:923][960]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:923][960]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.52:923][960]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:923][960]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.52:924][960]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Remove from navoctree)
+[2026.03.26-18.59.52:924][960]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:924][960]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_SpikeEnemy' Component: '/Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh' 
+[2026.03.26-18.59.52:925][960]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:925][960]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.52:959][961]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Addition to navoctree)
+[2026.03.26-18.59.52:994][962]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:994][962]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.52:994][962]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:994][962]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.52:994][962]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:994][962]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.52:995][962]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Remove from navoctree)
+[2026.03.26-18.59.52:995][962]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:995][962]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_SpikeEnemy' Component: '/Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh' 
+[2026.03.26-18.59.52:995][962]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.52:995][962]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.53:024][963]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Addition to navoctree)
+[2026.03.26-18.59.53:482][983]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.53:482][983]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.53:483][983]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.53:483][983]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.53:483][983]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.53:483][983]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.53:483][983]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Remove from navoctree)
+[2026.03.26-18.59.53:483][983]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.53:483][983]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_SpikeEnemy' Component: '/Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh' 
+[2026.03.26-18.59.53:483][983]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.53:483][983]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.53:510][984]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Addition to navoctree)
+[2026.03.26-18.59.54:042][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.54:043][  4]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Remove from navoctree)
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_SpikeEnemy' Component: '/Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh' 
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2026.03.26-18.59.54:043][  4]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: '' Component: '/Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh' 
+[2026.03.26-18.59.54:076][  5]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Addition to navoctree)
+[2026.03.26-18.59.56:587][ 99]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh, from: Remove from navoctree)
+[2026.03.26-18.59.56:590][ 99]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.375 Y=0.000 Z=0.000
+[2026.03.26-18.59.56:592][ 99]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.375 Y=0.000 Z=0.000
+[2026.03.26-18.59.56:593][ 99]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.375 Y=0.000 Z=0.000
+[2026.03.26-18.59.56:593][ 99]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.375 Y=0.000 Z=0.000
+[2026.03.26-18.59.56:593][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.375 Y=0.000 Z=0.000
+[2026.03.26-18.59.56:594][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.375 Y=0.000 Z=0.000
+[2026.03.26-18.59.56:595][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.375 Y=0.000 Z=0.000
+[2026.03.26-18.59.56:595][ 99]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.375 Y=0.000 Z=0.000
+[2026.03.26-19.00.01:254][274]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.000
+[2026.03.26-19.00.01:256][274]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.000
+[2026.03.26-19.00.01:257][274]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.000
+[2026.03.26-19.00.01:257][274]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.000
+[2026.03.26-19.00.01:258][274]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.000
+[2026.03.26-19.00.01:259][274]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.000
+[2026.03.26-19.00.01:260][274]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.000
+[2026.03.26-19.00.01:260][274]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.000
+[2026.03.26-19.00.03:457][356]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.046
+[2026.03.26-19.00.03:458][356]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.046
+[2026.03.26-19.00.03:458][356]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.046
+[2026.03.26-19.00.03:458][356]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.046
+[2026.03.26-19.00.03:460][356]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.046
+[2026.03.26-19.00.03:461][356]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.046
+[2026.03.26-19.00.03:461][356]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.046
+[2026.03.26-19.00.03:461][356]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.375 Z=0.046
+[2026.03.26-19.00.15:851][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3191.422607
+[2026.03.26-19.00.16:228][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.00.16:228][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3191.773193, Update Interval: 350.637543
+[2026.03.26-19.01.50:474][132]LogEditorTransaction: Undo Remove Components
+[2026.03.26-19.01.51:029][141]LogEditorTransaction: Undo Edit Static Mesh
+[2026.03.26-19.02.40:222][815]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.02.41:329][840]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.02.54:524][277]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.500 Y=0.000 Z=1.500
+[2026.03.26-19.02.54:526][277]LogPhysics: Warning: Scale for /Game/Scenes/Scene_1.Scene_1:PersistentLevel.BP_SpikeEnemy_C_1.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.500 Y=0.000 Z=1.500
+[2026.03.26-19.02.54:526][277]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.500 Y=0.000 Z=1.500
+[2026.03.26-19.02.54:557][278]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.500 Y=0.000 Z=1.500
+[2026.03.26-19.02.54:557][278]LogPhysics: Warning: Scale for /Engine/Transient.World_10:PersistentLevel.BP_SpikeEnemy_C_0.StaticMesh has a component set to zero, which will result in a bad body instance. Scale:X=1.500 Y=0.000 Z=1.500
+[2026.03.26-19.02.58:472][407]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.03.02:459][523]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.03.02:832][528]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.03.03:180][535]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.03.30:872][513]LogEditorTransaction: Undo Modify Component Scale
+[2026.03.26-19.05.22:458][508]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.06.00:640][918]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.06.27:091][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.06.27:165][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpikeEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset" SILENT=true
+[2026.03.26-19.06.27:175][814]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpikeEnemy
+[2026.03.26-19.06.27:175][814]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SpikeEnemyE1CD68534A0930C7F0130AB4046D3629.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset'
+[2026.03.26-19.06.27:184][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 879 ms)
+[2026.03.26-19.06.27:186][814]AssetCheck: New page: Asset Save: BP_SpikeEnemy
+[2026.03.26-19.06.27:186][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpikeEnemy.BP_SpikeEnemy
+[2026.03.26-19.06.45:132][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.06.45:207][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpikeEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset" SILENT=true
+[2026.03.26-19.06.45:217][458]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpikeEnemy
+[2026.03.26-19.06.45:217][458]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SpikeEnemy9766001A469953D23B7E8A82F1C9ADEA.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset'
+[2026.03.26-19.06.45:227][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 973 ms)
+[2026.03.26-19.06.45:228][458]AssetCheck: New page: Asset Save: BP_SpikeEnemy
+[2026.03.26-19.06.45:229][458]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpikeEnemy.BP_SpikeEnemy
+[2026.03.26-19.06.45:968][484]BlueprintLog: New page: Compile BP_SpikeEnemy
+[2026.03.26-19.06.46:216][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.26-19.06.46:350][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3581.936523
+[2026.03.26-19.06.46:770][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.06.46:770][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3582.327148, Update Interval: 315.386810
+[2026.03.26-19.07.31:340][  4]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.26-19.07.31:352][  4]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.26-19.07.31:352][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.26-19.07.31:352][  4]MaterialEditorStats: Shader Count: 0
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: ================================================
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: Total job queries 42, among them cache hits 32 (76.19%)
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 8 distinct outputs (80.00%)
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: RAM used: 202.50 KiB of 1.60 GiB budget. Usage: 0.01%
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: Shaders Compiled: 0
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2026.03.26-19.07.31:392][  6]LogShaderCompilers: Display: ================================================
+[2026.03.26-19.07.31:472][  8]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.26-19.07.31:472][  8]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.26-19.07.31:472][  8]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.26-19.07.31:472][  8]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.26-19.07.31:472][  8]MaterialEditorStats: Shader Count: 4
+[2026.03.26-19.07.34:639][129]LogMaterialEditor: Applying material M_Solid_laserEye
+[2026.03.26-19.07.34:795][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.26-19.07.34:980][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.26-19.07.37:454][213]LogViewport: Scene viewport resized to 1139x890, mode Windowed.
+[2026.03.26-19.07.37:513][214]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2026.03.26-19.08.05:335][220]BlueprintLog: New page: Compile BP_SphereEnemy
+[2026.03.26-19.08.05:384][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2026.03.26-19.08.06:092][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.08.06:170][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.26-19.08.06:177][242]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.26-19.08.06:177][242]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy7B83B7B94D52C0B3691F2D9EDA09FA0A.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.26-19.08.06:190][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 1.07 sec)
+[2026.03.26-19.08.06:195][242]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.26-19.08.06:195][242]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.26-19.09.04:209][544]LogDerivedDataCache: C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.305 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2695 files in 3817 folders with total size 83 MiB.
+[2026.03.26-19.09.25:097][285]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.26-19.09.27:855][361]LogEditorTransaction: Undo Modify Component Location
+[2026.03.26-19.09.47:157][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.09.47:240][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpikeEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset" SILENT=true
+[2026.03.26-19.09.47:249][ 39]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpikeEnemy
+[2026.03.26-19.09.47:249][ 39]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SpikeEnemy237744DF4238DE76A68E88A91459D831.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset'
+[2026.03.26-19.09.47:260][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.17 sec)
+[2026.03.26-19.09.47:262][ 39]AssetCheck: New page: Asset Save: BP_SpikeEnemy
+[2026.03.26-19.09.47:262][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpikeEnemy.BP_SpikeEnemy
+[2026.03.26-19.09.48:278][ 74]BlueprintLog: New page: Compile BP_SpikeEnemy
+[2026.03.26-19.09.48:340][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.03.26-19.10.05:749][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.10.05:819][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpikeEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset" SILENT=true
+[2026.03.26-19.10.05:826][680]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpikeEnemy
+[2026.03.26-19.10.05:826][680]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SpikeEnemy1F2DF34A4C6FA50EA24AAFA6BDD6A5D5.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset'
+[2026.03.26-19.10.05:835][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.26 sec)
+[2026.03.26-19.10.05:837][680]AssetCheck: New page: Asset Save: BP_SpikeEnemy
+[2026.03.26-19.10.05:837][680]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpikeEnemy.BP_SpikeEnemy
+[2026.03.26-19.10.07:864][747]BlueprintLog: New page: Compile BP_SpikeEnemy
+[2026.03.26-19.10.07:909][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.26-19.10.27:589][466]BlueprintLog: New page: Compile BP_SphereEnemy
+[2026.03.26-19.10.27:644][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.26-19.10.45:805][112]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.26-19.10.45:820][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.26-19.10.45:821][112]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 09:10:45)
+[2026.03.26-19.10.45:852][112]LogPlayLevel: Display: Creating online subsystem for client :Context_26
+[2026.03.26-19.10.45:855][112]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.03.26-19.10.45:877][113]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.26-19.10.45:887][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010065s)
+[2026.03.26-19.10.45:887][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.010195s)
+[2026.03.26-19.10.45:904][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.03.26-19.10.45:907][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.26-19.10.45:907][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.26-19.10.45:908][113]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.26-19.10.45:909][113]LogPlayLevel: PIE: World Init took: (0.002174s)
+[2026.03.26-19.10.45:909][113]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.03.26-19.10.45:909][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.26-19.10.45:909][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.26-19.10.45:909][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.26-19.10.45:909][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.26-19.10.45:909][113]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.26-19.10.45:909][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.26-19.10.45:909][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.26-19.10.45:909][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.26-19.10.45:910][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.26-19.10.45:910][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.26-19.10.45:910][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.26-19.10.45:915][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.26-19.10.46:060][113]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.26-19.10.46:060][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.26-19.10.46:060][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.26-19.10.46:060][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.26-19.10.46:061][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.03.26-19.10.46:061][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.03.26-19.10.46:063][113]LogInit: FAudioDevice initialized with ID 3.
+[2026.03.26-19.10.46:063][113]LogAudio: Display: Audio Device (ID: 3) registered with world 'Scene_1'.
+[2026.03.26-19.10.46:064][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.03.26-19.10.46:064][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.03.26-19.10.46:064][113]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.26-19.10.46:070][113]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.26-19.10.46:072][113]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-02.10.46
+[2026.03.26-19.10.46:072][113]LogWorld: Bringing up level for play took: 0.002333
+[2026.03.26-19.10.46:076][113]PIE: Server logged in
+[2026.03.26-19.10.46:078][113]PIE: Play in editor total start time 0.263 seconds.
+[2026.03.26-19.10.50:841][381]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.26-19.10.51:036][392]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.26-19.10.51:239][404]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.26-19.10.51:413][414]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.26-19.10.51:932][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.26-19.10.51:932][442]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.26-19.10.51:932][442]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-19.10.51:932][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-19.10.51:939][442]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.26-19.10.51:944][442]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-19.10.51:963][442]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.26-19.10.51:963][442]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.03.26-19.10.51:965][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.03.26-19.10.51:967][442]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2026.03.26-19.10.51:970][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.26-19.10.51:974][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.26-19.10.52:031][443]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.03.26-19.11.15:607][205]BlueprintLog: New page: Compile BP_SpikeEnemy
+[2026.03.26-19.11.15:671][205]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.03.26-19.12.25:806][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.12.25:881][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.26-19.12.25:972][966]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.26-19.12.25:973][966]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy9E97B6E24C5A8EBE1382CDACAF10154B.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.26-19.12.25:985][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 1.44 sec)
+[2026.03.26-19.12.25:988][966]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.26-19.12.25:988][966]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.26-19.12.33:353][253]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3928.947998
+[2026.03.26-19.12.33:749][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.12.33:749][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3929.292725, Update Interval: 313.119904
+[2026.03.26-19.13.06:610][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.26-19.13.06:618][619]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.13.06:703][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.26-19.13.06:731][619]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.26-19.13.06:732][619]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_18BDFD84845A93A2DD9C53282098D55D9.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.26-19.13.06:740][619]LogFileHelpers: Saving map 'Scene_1' took 0.065
+[2026.03.26-19.13.06:772][619]LogShaderCompilers: Display: ================================================
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: Total job queries 88, among them cache hits 52 (59.09%)
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: Tracking 36 distinct input hashes that result in 19 distinct outputs (52.78%)
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: RAM used: 872.07 KiB of 1.60 GiB budget. Usage: 0.05%
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: Shaders Compiled: 0
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2026.03.26-19.13.06:773][619]LogShaderCompilers: Display: ================================================
+[2026.03.26-19.13.06:782][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Solid_laserEye" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_laserEye.uasset" SILENT=true
+[2026.03.26-19.13.06:784][619]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_laserEye
+[2026.03.26-19.13.06:785][619]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_laserEyeE16DB5F24B9E5A7B6EB90F8C21CB09F0.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_laserEye.uasset'
+[2026.03.26-19.13.06:792][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpikeEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset" SILENT=true
+[2026.03.26-19.13.06:799][619]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpikeEnemy
+[2026.03.26-19.13.06:799][619]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SpikeEnemyB80699094D9DDA41ED90C48C1782F5AA.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SpikeEnemy.uasset'
+[2026.03.26-19.13.06:809][619]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 1.63 sec)
+[2026.03.26-19.13.06:811][619]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.26-19.13.06:811][619]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.26-19.13.06:811][619]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_laserEye.M_Solid_laserEye
+[2026.03.26-19.13.06:811][619]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SpikeEnemy.BP_SpikeEnemy
+[2026.03.26-19.13.06:812][619]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.26-19.13.06:812][619]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.26-19.13.06:812][619]MaterialEditorStats: MaxSampler: 248 instructions
+[2026.03.26-19.13.06:812][619]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.26-19.13.06:812][619]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.26-19.13.06:812][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.26-19.13.06:812][619]MaterialEditorStats: Shader Count: 30
+[2026.03.26-19.18.30:715][263]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4286.317383
+[2026.03.26-19.18.31:715][266]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.18.31:715][266]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4286.983887, Update Interval: 347.987915
+[2026.03.26-19.25.07:776][454]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4683.378906
+[2026.03.26-19.25.08:776][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.25.08:776][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4684.045410, Update Interval: 326.600555
+[2026.03.26-19.31.11:183][544]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5046.797363
+[2026.03.26-19.31.12:184][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.31.12:184][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5047.466309, Update Interval: 337.885681
+[2026.03.26-19.36.00:889][508]LogEditorTransaction: Undo Modify Component Scale
+[2026.03.26-19.36.11:943][  5]LogEditorTransaction: Undo Modify Component Scale
+[2026.03.26-19.37.11:218][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.37.11:286][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.26-19.37.11:291][822]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.26-19.37.11:292][822]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy4845CC52487A961EFDACC689F8A91FF9.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.26-19.37.11:299][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 1.71 sec)
+[2026.03.26-19.37.11:300][822]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.26-19.37.11:300][822]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.26-19.37.47:814][521]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5443.443359
+[2026.03.26-19.37.48:168][538]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.37.48:169][538]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5443.776367, Update Interval: 358.386780
+[2026.03.26-19.38.04:775][284]BlueprintLog: New page: Compile BP_SphereEnemy
+[2026.03.26-19.38.04:859][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.26-19.38.50:088][429]BlueprintLog: New page: Compile BP_SphereEnemy
+[2026.03.26-19.38.50:142][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.26-19.39.13:369][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.39.13:435][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.26-19.39.13:441][508]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.26-19.39.13:441][508]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy2609971C4A6C08CD8061198A8421B497.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.26-19.39.13:449][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.79 sec)
+[2026.03.26-19.39.13:450][508]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.26-19.39.13:450][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.26-19.39.43:848][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.03.26-19.39.43:876][709]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/Scene_1_Auto1
+[2026.03.26-19.39.43:878][709]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1_Auto14E59D823404F70DCBDD79F9654DBD821.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Autosaves/Game/Scenes/Scene_1_Auto1.umap'
+[2026.03.26-19.39.43:879][709]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Autosaves/Game/Scenes/Scene_1_Auto1.umap is in the /Temp path, will not scan.
+[2026.03.26-19.39.43:879][709]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Scene_1' took 0.046
+[2026.03.26-19.39.43:879][709]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2026.03.26-19.43.36:232][863]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.43.36:294][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.26-19.43.36:300][863]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.26-19.43.36:300][863]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemyE049B358426595C1A07EC1AE5406F3B9.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.26-19.43.36:308][863]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.86 sec)
+[2026.03.26-19.43.36:310][863]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.26-19.43.36:310][863]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.26-19.43.40:542][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-19.43.40:602][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.26-19.43.40:609][ 64]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.26-19.43.40:609][ 64]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy142AD1DA4EE4A6379D2C91B6B5441E38.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.26-19.43.40:616][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.94 sec)
+[2026.03.26-19.43.40:617][ 64]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.26-19.43.40:617][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.26-19.44.43:439][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5859.075195
+[2026.03.26-19.44.44:440][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.44.44:440][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5859.743164, Update Interval: 337.592712
+[2026.03.26-19.49.44:550][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.26-19.49.44:579][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/Scene_1_Auto2
+[2026.03.26-19.49.44:661][635]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1_Auto2651C107B48C7C3C8252D6DAA584D7FC2.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Autosaves/Game/Scenes/Scene_1_Auto2.umap'
+[2026.03.26-19.49.44:663][635]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Autosaves/Game/Scenes/Scene_1_Auto2.umap is in the /Temp path, will not scan.
+[2026.03.26-19.49.44:664][635]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Scene_1' took 0.129
+[2026.03.26-19.49.44:664][635]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.129
+[2026.03.26-19.49.44:664][635]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_SphereEnemy] ([2] browsable assets)...
+[2026.03.26-19.49.44:754][635]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy]
+[2026.03.26-19.49.44:754][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SphereEnemy]
+[2026.03.26-19.49.44:761][635]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_SphereEnemy_Auto2
+[2026.03.26-19.49.44:761][635]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy_Auto2305FF16B4BCD4B9CB32D1FAC88E2964A.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Autosaves/Game/Blueprints/BP_SphereEnemy_Auto2.uasset'
+[2026.03.26-19.49.44:761][635]LogFileHelpers: Auto-saving content packages took 0.098
+[2026.03.26-19.51.19:842][922]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6255.480957
+[2026.03.26-19.51.20:843][925]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.51.20:843][925]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6256.148438, Update Interval: 321.431305
+[2026.03.26-19.57.39:223][ 60]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6634.860352
+[2026.03.26-19.57.40:222][ 63]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-19.57.40:222][ 63]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6635.531250, Update Interval: 322.892548
+[2026.03.26-20.03.50:261][173]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7005.898926
+[2026.03.26-20.03.51:261][176]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-20.03.51:262][176]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7006.564941, Update Interval: 350.597260
+[2026.03.26-20.09.04:965][117]LogDerivedDataCache: C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.061 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2696 files in 3819 folders with total size 83 MiB.
+[2026.03.26-20.10.17:293][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7392.929199
+[2026.03.26-20.10.18:291][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-20.10.18:291][337]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7393.593750, Update Interval: 302.649628
+[2026.03.26-20.15.52:996][341]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7728.634277
+[2026.03.26-20.15.53:995][344]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-20.15.53:995][344]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7729.301270, Update Interval: 301.847595
+[2026.03.26-20.21.46:357][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8081.989746
+[2026.03.26-20.21.47:356][404]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-20.21.47:358][404]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8082.656250, Update Interval: 326.653656
+[2026.03.26-20.28.12:717][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8468.339844
+[2026.03.26-20.28.13:718][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-20.28.13:718][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8469.006836, Update Interval: 317.996155
+[2026.03.26-20.34.01:815][607]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8817.443359
+[2026.03.26-20.34.02:817][610]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-20.34.02:817][610]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8818.109375, Update Interval: 312.202515
+[2026.03.26-20.40.14:517][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9190.133789
+[2026.03.26-20.40.16:185][730]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.26-20.40.16:185][730]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9191.465820, Update Interval: 302.819916
+[2026.03.26-20.42.02:735][136]BlueprintLog: New page: Compile BP_SphereEnemy
+[2026.03.26-20.42.02:810][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2026.03.26-20.42.05:093][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.03.26-20.42.05:098][246]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-20.42.05:185][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.26-20.42.05:214][246]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.26-20.42.05:215][246]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1A261EC1946A7DFC5FD91E2A5CB36A055.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.26-20.42.05:222][246]LogFileHelpers: Saving map 'Scene_1' took 0.068
+[2026.03.26-20.42.05:233][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.26-20.42.05:238][246]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.26-20.42.05:238][246]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemyF51C5D06438256744E6EEE861749C2A9.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.26-20.42.05:249][246]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 2.09 sec)
+[2026.03.26-20.42.05:251][246]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.26-20.42.05:251][246]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.26-20.42.05:251][246]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
