@@ -2812,3 +2812,273 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.03.27-08.26.33:842][806]AssetCheck: New page: Asset Save: multiple assets
 [2026.03.27-08.26.33:842][806]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CubeController.BP_CubeController
 [2026.03.27-08.26.33:842][806]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprints/WBP_HUD.WBP_HUD
+[2026.03.27-08.26.59:896][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Key_Lv2.BP_Key_Lv2
+[2026.03.27-08.26.59:896][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-08.26.59:897][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-08.27.01:804][343]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2026.03.27-08.27.09:064][563]BlueprintLog: New page: Compile BP_Key_Lv2
+[2026.03.27-08.27.09:290][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2026.03.27-08.27.14:254][778]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_notebookLine_2.M_Solid_notebookLine_2
+[2026.03.27-08.27.14:262][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-08.27.14:262][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-08.27.14:509][778]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.27.14:510][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.14:510][778]MaterialEditorStats: Shader Count: 0
+[2026.03.27-08.27.14:528][778]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: ================================================
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Total job queries 18, among them cache hits 3 (16.67%)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Tracking 15 distinct input hashes that result in 11 distinct outputs (73.33%)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: RAM used: 310.44 KiB of 1.60 GiB budget. Usage: 0.02%
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 0.92 s
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 1.00 s
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.24
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Shader code size: average 31.539 KiB, min 4.359 KiB, max 37.617 KiB
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.25 s
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Average processing rate: 8.77 jobs/sec
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Total thread time: 4.212 s
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Total thread preprocess time: 0.542 s
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Percentage time preprocessing: 12.88%
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Effective parallelization: 3.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.49 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.44 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.43 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.98% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.49 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.08% of total time (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.44 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.86% of total time (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.43 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.80% of total time (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display:                                                  FVelocityVS - 8.86% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.03.27-08.27.14:576][779]LogShaderCompilers: Display: ================================================
+[2026.03.27-08.27.14:618][780]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.27.14:618][780]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.27.14:618][780]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.27.14:618][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.14:618][780]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.27.19:892][875]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-08.27.19:904][875]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.27.19:904][875]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.19:904][875]MaterialEditorStats: Shader Count: 0
+[2026.03.27-08.27.19:926][875]LogAutomationController: Ignoring very large delta of 3.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.27-08.27.20:037][879]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.27.20:037][879]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.27.20:037][879]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.27.20:037][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.20:037][879]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.27.21:213][917]LogMaterialEditor: Applying material M_Solid_notebookLine_2
+[2026.03.27-08.27.21:345][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.03.27-08.27.21:540][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.27-08.27.25:154][ 73]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2832.128174
+[2026.03.27-08.27.25:508][ 90]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-08.27.25:508][ 90]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2832.460938, Update Interval: 332.657867
+[2026.03.27-08.27.25:659][ 97]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_notebookLine.M_Solid_notebookLine
+[2026.03.27-08.27.25:664][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-08.27.25:664][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-08.27.25:872][ 97]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.27.25:872][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.25:872][ 97]MaterialEditorStats: Shader Count: 0
+[2026.03.27-08.27.25:896][ 97]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-08.27.25:990][ 99]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.27.25:990][ 99]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.27.25:990][ 99]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.27.25:990][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.25:990][ 99]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.27.33:849][150]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-08.27.33:863][150]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.27.33:863][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.33:863][150]MaterialEditorStats: Shader Count: 0
+[2026.03.27-08.27.33:886][151]LogAutomationController: Ignoring very large delta of 6.52 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.27-08.27.34:068][154]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.27.34:068][154]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.27.34:068][154]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.27.34:068][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.34:068][154]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.27.34:870][178]LogMaterialEditor: Applying material M_Solid_notebookLine
+[2026.03.27-08.27.34:982][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.27-08.27.35:162][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.27-08.27.43:375][381]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-08.27.43:390][381]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.27.43:391][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.43:391][381]MaterialEditorStats: Shader Count: 0
+[2026.03.27-08.27.43:410][382]LogAutomationController: Ignoring very large delta of 3.45 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.27-08.27.43:523][385]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.27.43:523][385]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.27.43:523][385]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.27.43:523][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.43:523][385]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.27.44:340][413]LogMaterialEditor: Applying material M_Solid_notebookLine
+[2026.03.27-08.27.44:424][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.27-08.27.44:646][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.27-08.27.58:365][720]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-08.27.58:380][720]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.27.58:380][720]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.58:380][720]MaterialEditorStats: Shader Count: 0
+[2026.03.27-08.27.58:399][721]LogAutomationController: Ignoring very large delta of 6.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.27-08.27.58:579][724]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.27.58:579][724]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.27.58:579][724]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.27.58:579][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.27.58:579][724]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.27.59:507][756]LogMaterialEditor: Applying material M_Solid_notebookLine
+[2026.03.27-08.27.59:600][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2026.03.27-08.27.59:804][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.27-08.28.45:903][266]Cmd: TRANSACTION UNDO
+[2026.03.27-08.28.45:904][266]LogEditorTransaction: Undo Scale Elements
+[2026.03.27-08.28.46:358][273]Cmd: TRANSACTION UNDO
+[2026.03.27-08.28.46:358][273]LogEditorTransaction: Undo Move Elements
+[2026.03.27-08.28.58:167][894]Cmd: TRANSACTION UNDO
+[2026.03.27-08.28.58:167][894]LogEditorTransaction: Undo Move Elements
+[2026.03.27-08.30.19:853][476]Cmd: TRANSACTION UNDO
+[2026.03.27-08.30.19:853][476]LogEditorTransaction: Undo Edit Static Mesh
+[2026.03.27-08.30.34:519][246]Cmd: TRANSACTION UNDO
+[2026.03.27-08.30.34:519][246]LogEditorTransaction: Undo Edit Static Mesh
+[2026.03.27-08.30.54:133][379]Cmd: DELETE
+[2026.03.27-08.30.54:133][379]Cmd: ACTOR DELETE
+[2026.03.27-08.30.54:150][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.27-08.30.54:169][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.27-08.30.54:173][379]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2026.03.27-08.30.58:281][618]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.27-08.30.58:281][618]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.27-08.30.58:281][618]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_6
+[2026.03.27-08.30.58:282][618]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_6
+[2026.03.27-08.30.59:052][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.27-08.30.59:053][660]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2026.03.27-08.30.59:054][660]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_34
+[2026.03.27-08.30.59:055][660]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_34
+[2026.03.27-08.31.00:013][711]Cmd: TRANSACTION UNDO
+[2026.03.27-08.31.00:013][711]LogEditorTransaction: Undo Create Actors
+[2026.03.27-08.31.02:911][857]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.27-08.31.04:446][927]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.27-08.31.43:557][140]Cmd: TRANSACTION UNDO
+[2026.03.27-08.31.43:557][140]LogEditorTransaction: Undo Scale Elements
+[2026.03.27-08.32.10:332][591]Cmd: DELETE
+[2026.03.27-08.32.10:332][591]Cmd: ACTOR DELETE
+[2026.03.27-08.32.10:347][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.27-08.32.10:364][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.27-08.32.10:370][591]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.03.27-08.32.15:756][900]Cmd: DUPLICATE
+[2026.03.27-08.32.15:756][900]Cmd: ACTOR DUPLICATE
+[2026.03.27-08.32.59:912][388]Cmd: TRANSACTION UNDO
+[2026.03.27-08.32.59:913][388]LogEditorTransaction: Undo Scale Elements
+[2026.03.27-08.33.09:513][909]Cmd: TRANSACTION UNDO
+[2026.03.27-08.33.09:513][909]LogEditorTransaction: Undo Scale Elements
+[2026.03.27-08.33.15:478][213]Cmd: DELETE
+[2026.03.27-08.33.15:478][213]Cmd: ACTOR DELETE
+[2026.03.27-08.33.15:490][213]LogEditorActor: Deleted Actor: Brush
+[2026.03.27-08.33.15:511][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.27-08.33.15:542][213]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2026.03.27-08.33.44:969][360]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3211.948242
+[2026.03.27-08.33.45:969][363]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-08.33.45:970][363]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3212.614990, Update Interval: 359.708862
+[2026.03.27-08.34.37:268][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.27-08.34.37:277][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.34.37:360][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.27-08.34.37:492][846]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.34.37:493][846]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_11A03A5CB47D0B2EC1B9866B222BAEF44.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.34.37:502][846]LogFileHelpers: Saving map 'Scene_1' took 0.173
+[2026.03.27-08.34.37:536][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key_Lv2" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_Key_Lv2.uasset" SILENT=true
+[2026.03.27-08.34.37:544][846]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Key_Lv2
+[2026.03.27-08.34.37:544][846]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_Key_Lv2BDB2032341C3FE31A713D5A2AC9BD20A.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_Key_Lv2.uasset'
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: ================================================
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Total job queries 142, among them cache hits 99 (69.72%)
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Tracking 43 distinct input hashes that result in 24 distinct outputs (55.81%)
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: RAM used: 0.99 MiB of 1.60 GiB budget. Usage: 0.06%
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 0.92 s
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 1.00 s
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.24
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Shader code size: average 31.539 KiB, min 4.359 KiB, max 37.617 KiB
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.25 s
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Average processing rate: 8.77 jobs/sec
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Total thread time: 4.212 s
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Total thread preprocess time: 0.542 s
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Percentage time preprocessing: 12.88%
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Effective parallelization: 3.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.49 sec)
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.44 sec)
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.43 sec)
+[2026.03.27-08.34.37:570][846]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.03.27-08.34.37:571][846]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.03.27-08.34.37:571][846]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.27-08.34.37:571][846]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.98% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.49 sec)
+[2026.03.27-08.34.37:571][846]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.08% of total time (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.44 sec)
+[2026.03.27-08.34.37:571][846]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.86% of total time (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.43 sec)
+[2026.03.27-08.34.37:571][846]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.80% of total time (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2026.03.27-08.34.37:571][846]LogShaderCompilers: Display:                                                  FVelocityVS - 8.86% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.03.27-08.34.37:571][846]LogShaderCompilers: Display: ================================================
+[2026.03.27-08.34.37:580][846]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_notebookLine
+[2026.03.27-08.34.37:580][846]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_notebookLine03E21CDD4C745FA867F457A806A31968.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_notebookLine.uasset'
+[2026.03.27-08.34.37:604][846]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_notebookLine_2
+[2026.03.27-08.34.37:604][846]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_notebookLine_20AFFAA014AEDA10351EFA8865D6A08DD.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_notebookLine_2.uasset'
+[2026.03.27-08.34.37:622][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 345 ms (total: 961 ms)
+[2026.03.27-08.34.37:626][846]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.27-08.34.37:626][846]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-08.34.37:626][846]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Key_Lv2.BP_Key_Lv2
+[2026.03.27-08.34.37:626][846]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_notebookLine.M_Solid_notebookLine
+[2026.03.27-08.34.37:626][846]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_notebookLine_2.M_Solid_notebookLine_2
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: MaxSampler: 244 instructions
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Shader Count: 30
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: MaxSampler: 244 instructions
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.34.37:627][846]MaterialEditorStats: Shader Count: 30
+[2026.03.27-08.35.17:633][  9]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2026.03.27-08.35.17:633][  9]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2026.03.27-08.35.17:634][  9]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400 as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_41
+[2026.03.27-08.35.20:633][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2026.03.27-08.35.20:633][176]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400
+[2026.03.27-08.35.20:635][176]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x400.Wall_Door_400x400 as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_46
+[2026.03.27-08.35.47:939][701]Cmd: TRANSACTION UNDO
+[2026.03.27-08.35.47:939][701]LogEditorTransaction: Undo Set Location
+[2026.03.27-08.35.58:575][275]Cmd: TRANSACTION UNDO
+[2026.03.27-08.35.58:575][275]LogEditorTransaction: Undo Scale Elements
+[2026.03.27-08.36.25:168][698]Cmd: TRANSACTION UNDO
+[2026.03.27-08.36.25:168][698]LogEditorTransaction: Undo Set Location
+[2026.03.27-08.36.28:425][859]Cmd: TRANSACTION UNDO
+[2026.03.27-08.36.28:425][859]LogEditorTransaction: Undo Set Location
+[2026.03.27-08.37.19:860][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.37.20:034][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.27-08.37.20:187][791]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.37.20:187][791]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_19DC875CE4DBBB339B559D79FD92900E7.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.37.20:201][791]LogFileHelpers: Saving map 'Scene_1' took 0.207
+[2026.03.27-08.37.20:206][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 346 ms (total: 1.30 sec)
+[2026.03.27-08.37.20:207][791]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.27-08.37.20:207][791]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-08.37.34:339][531]Cmd: DUPLICATE
+[2026.03.27-08.37.34:339][531]Cmd: ACTOR DUPLICATE
+[2026.03.27-08.37.52:866][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.37.52:958][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.27-08.37.53:126][482]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.37.53:126][482]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1B9DD5D8B4B6347B9D81F01BBE6AE7BE0.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.37.53:136][482]LogFileHelpers: Saving map 'Scene_1' took 0.213
+[2026.03.27-08.37.53:152][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 1.59 sec)
+[2026.03.27-08.37.53:157][482]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.27-08.37.53:157][482]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-08.38.13:462][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.27-08.38.15:618][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2026.03.27-08.38.15:821][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.27-08.38.15:973][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.27-08.38.16:124][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.27-08.38.16:846][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
