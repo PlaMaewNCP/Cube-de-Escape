@@ -3082,3 +3082,314 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2026.03.27-08.38.15:973][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2026.03.27-08.38.16:124][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2026.03.27-08.38.16:846][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.27-08.38.44:346][114]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.38.44:435][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.27-08.38.44:583][114]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.38.44:584][114]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_12A106C584487F191BD60A49EB0221CC4.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.38.44:594][114]LogFileHelpers: Saving map 'Scene_1' took 0.191
+[2026.03.27-08.38.44:610][114]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 1.85 sec)
+[2026.03.27-08.38.44:615][114]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.27-08.38.44:615][114]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-08.38.44:663][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.38.44:745][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.03.27-08.38.44:896][117]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.38.44:897][117]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1615118DB484AC05BC552C6BAC8303BA4.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.38.44:907][117]LogFileHelpers: Saving map 'Scene_1' took 0.195
+[2026.03.27-08.38.44:922][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 2.11 sec)
+[2026.03.27-08.38.44:926][117]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.27-08.38.44:926][117]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-08.38.44:956][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.38.45:056][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2026.03.27-08.38.45:197][119]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.38.45:197][119]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1179377AA4047E73D53843189C072B4F1.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.38.45:206][119]LogFileHelpers: Saving map 'Scene_1' took 0.188
+[2026.03.27-08.38.45:219][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 2.38 sec)
+[2026.03.27-08.38.45:223][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.38.45:309][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.03.27-08.38.45:467][119]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.38.45:467][119]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1E59ABBBD4D9CC49EFF97B1870DAA649C.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.38.45:478][119]LogFileHelpers: Saving map 'Scene_1' took 0.201
+[2026.03.27-08.38.45:492][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 269 ms (total: 2.64 sec)
+[2026.03.27-08.38.45:496][119]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.27-08.38.45:496][119]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-08.40.44:642][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3631.622070
+[2026.03.27-08.40.44:991][547]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-08.40.44:991][547]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3631.954834, Update Interval: 300.335083
+[2026.03.27-08.41.30:140][146]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2026.03.27-08.41.30:140][146]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2026.03.27-08.41.30:140][146]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_69
+[2026.03.27-08.41.31:412][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2026.03.27-08.41.31:412][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe
+[2026.03.27-08.41.31:414][212]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Pipe.Shape_Pipe as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_70
+[2026.03.27-08.41.56:041][588]LogDerivedDataCache: C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.081 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2787 files in 3935 folders with total size 91 MiB.
+[2026.03.27-08.42.00:779][841]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2026.03.27-08.42.00:779][841]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2026.03.27-08.42.00:781][841]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_71
+[2026.03.27-08.42.01:846][891]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2026.03.27-08.42.01:846][891]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone
+[2026.03.27-08.42.01:848][891]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Shapes/Shape_Cone.Shape_Cone as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_72
+[2026.03.27-08.42.17:215][753]Cmd: TRANSACTION UNDO
+[2026.03.27-08.42.17:215][753]LogEditorTransaction: Undo Set Scale
+[2026.03.27-08.42.17:639][758]Cmd: TRANSACTION UNDO
+[2026.03.27-08.42.17:639][758]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.27-08.42.59:113][  1]Cmd: TRANSACTION UNDO
+[2026.03.27-08.42.59:113][  1]LogEditorTransaction: Undo Scale Elements
+[2026.03.27-08.43.04:883][310]Cmd: TRANSACTION UNDO
+[2026.03.27-08.43.04:884][310]LogEditorTransaction: Undo Scale Elements
+[2026.03.27-08.44.31:948][632]Cmd: DELETE
+[2026.03.27-08.44.31:948][632]Cmd: ACTOR DELETE
+[2026.03.27-08.44.31:962][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.27-08.44.31:998][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.27-08.44.32:003][632]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.03.27-08.44.32:487][651]Cmd: DELETE
+[2026.03.27-08.44.32:487][651]Cmd: ACTOR DELETE
+[2026.03.27-08.44.32:501][651]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.27-08.44.32:521][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.27-08.44.32:524][651]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.03.27-08.44.33:425][694]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.27-08.44.34:409][734]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.03.27-08.44.52:849][699]Cmd: TRANSACTION UNDO
+[2026.03.27-08.44.52:849][699]LogEditorTransaction: Undo Move Elements
+[2026.03.27-08.46.07:256][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.46.07:357][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.03.27-08.46.07:515][689]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.46.07:516][689]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_15FA5523D4D29C3976F2FDEAA30A3538B.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.46.07:525][689]LogFileHelpers: Saving map 'Scene_1' took 0.208
+[2026.03.27-08.46.07:533][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 2.92 sec)
+[2026.03.27-08.46.07:537][689]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.27-08.46.07:537][689]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-08.46.16:376][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3963.355469
+[2026.03.27-08.46.16:710][235]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-08.46.16:711][235]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3963.671387, Update Interval: 343.589600
+[2026.03.27-08.47.10:864][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-08.47.10:864][244]PIE: New page: SIE session: Scene_1 (27 มี.ค. 2569 22:47:10)
+[2026.03.27-08.47.10:864][244]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-08.47.10:914][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050002s)
+[2026.03.27-08.47.10:914][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.050061s)
+[2026.03.27-08.47.10:933][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.27-08.47.10:937][244]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-08.47.10:937][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-08.47.10:938][244]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-08.47.10:939][244]LogPlayLevel: PIE: World Init took: (0.001971s)
+[2026.03.27-08.47.10:939][244]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.03.27-08.47.10:939][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-08.47.10:939][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-08.47.10:939][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-08.47.10:939][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-08.47.10:939][244]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-08.47.10:939][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-08.47.10:939][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-08.47.10:939][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-08.47.10:940][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-08.47.10:940][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-08.47.10:940][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-08.47.10:943][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-08.47.11:081][244]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-08.47.11:081][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-08.47.11:081][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-08.47.11:081][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-08.47.11:083][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.03.27-08.47.11:083][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.03.27-08.47.11:084][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.03.27-08.47.11:084][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.03.27-08.47.11:084][244]LogInit: FAudioDevice initialized with ID 10.
+[2026.03.27-08.47.11:084][244]LogAudio: Display: Audio Device (ID: 10) registered with world 'Scene_1'.
+[2026.03.27-08.47.11:084][244]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.27-08.47.11:087][244]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-08.47.11:110][244]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-15.47.11
+[2026.03.27-08.47.11:111][244]LogWorld: Bringing up level for play took: 0.024190
+[2026.03.27-08.47.11:114][244]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.03.27-08.47.11:121][244]PIE: Server logged in
+[2026.03.27-08.47.11:122][244]PIE: Play in editor total start time 0.258 seconds.
+[2026.03.27-08.47.26:550][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-08.47.26:550][926]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-08.47.26:550][926]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-08.47.26:554][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-08.47.26:557][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-08.47.26:563][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-08.47.26:578][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-08.47.26:582][926]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.03.27-08.47.26:582][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.03.27-08.47.26:584][926]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.03.27-08.47.26:602][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.03.27-08.47.26:694][927]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.03.27-08.47.36:717][453]LogDebuggerCommands: Repeating last play command: Simulate
+[2026.03.27-08.47.36:725][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-08.47.36:725][453]PIE: New page: SIE session: Scene_1 (27 มี.ค. 2569 22:47:36)
+[2026.03.27-08.47.36:725][453]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-08.47.36:775][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049551s)
+[2026.03.27-08.47.36:775][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.049594s)
+[2026.03.27-08.47.36:790][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.27-08.47.36:793][453]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-08.47.36:793][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-08.47.36:793][453]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-08.47.36:794][453]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2026.03.27-08.47.36:794][453]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.03.27-08.47.36:794][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-08.47.36:794][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-08.47.36:794][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-08.47.36:794][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-08.47.36:794][453]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-08.47.36:794][453]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-08.47.36:794][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-08.47.36:794][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-08.47.36:795][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-08.47.36:795][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-08.47.36:795][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-08.47.36:798][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-08.47.36:934][453]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-08.47.36:934][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-08.47.36:934][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-08.47.36:934][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-08.47.36:935][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.03.27-08.47.36:935][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.03.27-08.47.36:937][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.03.27-08.47.36:937][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.03.27-08.47.36:937][453]LogInit: FAudioDevice initialized with ID 11.
+[2026.03.27-08.47.36:937][453]LogAudio: Display: Audio Device (ID: 11) registered with world 'Scene_1'.
+[2026.03.27-08.47.36:937][453]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.27-08.47.36:941][453]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-08.47.36:964][453]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-15.47.36
+[2026.03.27-08.47.36:965][453]LogWorld: Bringing up level for play took: 0.023423
+[2026.03.27-08.47.36:967][453]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.03.27-08.47.36:974][453]PIE: Server logged in
+[2026.03.27-08.47.36:975][453]PIE: Play in editor total start time 0.249 seconds.
+[2026.03.27-08.47.37:719][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-08.47.37:719][485]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-08.47.37:721][485]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-08.47.37:724][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-08.47.37:727][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-08.47.37:733][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-08.47.37:748][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-08.47.37:752][485]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.03.27-08.47.37:753][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.03.27-08.47.37:755][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.03.27-08.47.37:773][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.27-08.47.37:868][486]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.03.27-08.48.16:340][575]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_Bullet.M_Solid_Bullet
+[2026.03.27-08.48.16:344][575]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-08.48.16:344][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-08.48.16:583][575]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.48.16:583][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.48.16:583][575]MaterialEditorStats: Shader Count: 0
+[2026.03.27-08.48.16:601][575]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: ================================================
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Total job queries 170, among them cache hits 127 (74.71%)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Tracking 43 distinct input hashes that result in 24 distinct outputs (55.81%)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: RAM used: 0.99 MiB of 1.60 GiB budget. Usage: 0.06%
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Shaders Compiled: 11
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100%)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 0.92 s
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 1.00 s
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Job life time (pending + execution): average 0.96 s, max 1.24
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Shader code size: average 31.539 KiB, min 4.359 KiB, max 37.617 KiB
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.25 s
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Average processing rate: 8.77 jobs/sec
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Total thread time: 4.212 s
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Total thread preprocess time: 0.542 s
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Percentage time preprocessing: 12.88%
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Effective parallelization: 3.36 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.49 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.44 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.43 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.98% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.49 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                                 FLumenCardVS - 21.08% of total time (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.44 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.86% of total time (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.43 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.80% of total time (compiled    2 times, average 0.21 sec, max 0.22 sec, min 0.20 sec)
+[2026.03.27-08.48.16:643][576]LogShaderCompilers: Display:                                                  FVelocityVS - 8.86% of total time (compiled    1 times, average 0.37 sec, max 0.37 sec, min 0.37 sec)
+[2026.03.27-08.48.16:644][576]LogShaderCompilers: Display: ================================================
+[2026.03.27-08.48.16:684][577]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.48.16:684][577]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.48.16:684][577]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.48.16:684][577]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.48.16:684][577]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.48.21:473][791]LogMaterialEditor: Saving and Compiling material M_Solid_Bullet
+[2026.03.27-08.48.27:261][791]LogSlate: Window 'Save Asset As' being destroyed
+[2026.03.27-08.48.27:283][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.48.27:404][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Solid_pencil" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_pencil.uasset" SILENT=true
+[2026.03.27-08.48.27:407][791]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_pencil
+[2026.03.27-08.48.27:407][791]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_pencilD95C6A854A128F6ED68C52A9D67E24BC.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_pencil.uasset'
+[2026.03.27-08.48.27:418][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 3.06 sec)
+[2026.03.27-08.48.27:463][791]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_pencil.M_Solid_pencil
+[2026.03.27-08.48.27:468][791]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-08.48.27:468][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-08.48.27:587][791]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-08.48.27:587][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-08.48.27:600][791]AssetCheck: New page: Asset Save: M_Solid_pencil
+[2026.03.27-08.48.27:600][791]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_pencil.M_Solid_pencil
+[2026.03.27-08.48.27:650][791]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.48.27:650][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.48.27:650][791]MaterialEditorStats: Shader Count: 0
+[2026.03.27-08.48.27:660][791]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-08.48.27:684][792]LogAutomationController: Ignoring very large delta of 6.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.27-08.48.27:751][793]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.48.27:751][793]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.48.27:751][793]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.48.27:751][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.48.27:751][793]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.48.38:998][867]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-08.48.39:022][868]LogAutomationController: Ignoring very large delta of 9.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.27-08.48.40:448][936]LogMaterialEditor: Applying material M_Solid_pencil
+[2026.03.27-08.48.40:555][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.27-08.48.40:731][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.27-08.48.40:743][936]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-08.48.40:743][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.48.40:743][936]MaterialEditorStats: Shader Count: 2
+[2026.03.27-08.48.40:760][937]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.48.40:760][937]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.48.40:760][937]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-08.48.40:760][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.48.40:760][937]MaterialEditorStats: Shader Count: 4
+[2026.03.27-08.49.14:830][828]LogSlate: Window 'Select Path' being destroyed
+[2026.03.27-08.49.15:014][828]LogStaticMesh: Display: Building static mesh pencil...
+[2026.03.27-08.49.15:019][828]LogStaticMesh: Built static mesh [0.01s] /Game/MapDecoration/pencil.pencil
+[2026.03.27-08.49.15:030][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MapDecoration/pencil.pencil
+[2026.03.27-08.49.15:030][828]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MapDecoration/pencil.pencil
+[2026.03.27-08.49.15:032][828]LogActorFactory: Actor Factory spawned StaticMesh /Game/MapDecoration/pencil.pencil as actor: StaticMeshActor /Game/Scenes/Scene_1.Scene_1:PersistentLevel.StaticMeshActor_87
+[2026.03.27-08.49.15:094][828]EditorErrors: New page: Actor Reattachment
+[2026.03.27-08.49.15:115][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.03.27-08.49.19:302][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.27-08.49.19:308][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.49.19:412][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.03.27-08.49.19:587][ 17]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.49.19:588][ 17]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1488DE4E0448935E9A2D3EEB354F59132.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.49.19:598][ 17]LogFileHelpers: Saving map 'Scene_1' took 0.224
+[2026.03.27-08.49.19:659][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Solid_pencil" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_pencil.uasset" SILENT=true
+[2026.03.27-08.49.19:661][ 17]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_pencil
+[2026.03.27-08.49.19:662][ 17]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_pencil8C04B49B4120C7BF68D56CB7B541ACC4.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_pencil.uasset'
+[2026.03.27-08.49.19:673][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapDecoration/pencil" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/MapDecoration/pencil.uasset" SILENT=true
+[2026.03.27-08.49.19:676][ 17]LogSavePackage: Moving output files for package: /Game/MapDecoration/pencil
+[2026.03.27-08.49.19:676][ 17]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/pencilA67FD6D34EBF4B2DFA517381403183A7.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/MapDecoration/pencil.uasset'
+[2026.03.27-08.49.19:695][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 387 ms (total: 3.44 sec)
+[2026.03.27-08.49.19:701][ 17]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.27-08.49.19:702][ 17]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-08.49.19:702][ 17]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_pencil.M_Solid_pencil
+[2026.03.27-08.49.19:702][ 17]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MapDecoration/pencil.pencil
+[2026.03.27-08.49.19:702][ 17]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-08.49.19:702][ 17]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-08.49.19:702][ 17]MaterialEditorStats: MaxSampler: 244 instructions
+[2026.03.27-08.49.19:702][ 17]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.27-08.49.19:702][ 17]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-08.49.19:702][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-08.49.19:702][ 17]MaterialEditorStats: Shader Count: 30
+[2026.03.27-08.49.41:588][215]Cmd: TRANSACTION UNDO
+[2026.03.27-08.49.41:588][215]LogEditorTransaction: Undo Move Elements
+[2026.03.27-08.49.50:323][663]Cmd: TRANSACTION UNDO
+[2026.03.27-08.49.50:323][663]LogEditorTransaction: Undo Move Elements
+[2026.03.27-08.50.04:095][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.27-08.50.04:102][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-08.50.04:206][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.27-08.50.04:376][358]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-08.50.04:377][358]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_10A32F3094DF714F1AEF9B2883E43B7F2.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-08.50.04:386][358]LogFileHelpers: Saving map 'Scene_1' took 0.216
+[2026.03.27-08.50.04:395][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 292 ms (total: 3.74 sec)
+[2026.03.27-08.50.04:400][358]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.27-08.50.04:400][358]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
