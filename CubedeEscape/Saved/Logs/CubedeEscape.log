@@ -16613,3 +16613,1911 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.03.27-06.23.34:861][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 4.69 sec)
 [2026.03.27-06.23.34:864][223]AssetCheck: New page: Asset Save: Scene_1
 [2026.03.27-06.23.34:864][223]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-06.24.45:587][114]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.24.45:594][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.24.45:594][114]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:24:45)
+[2026.03.27-06.24.45:594][114]LogPlayLevel: Display: Creating online subsystem for client :Context_134
+[2026.03.27-06.24.45:596][114]LogOnline: OSS: Created online subsystem instance for: :Context_134
+[2026.03.27-06.24.45:617][115]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.24.45:638][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021134s)
+[2026.03.27-06.24.45:638][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.021184s)
+[2026.03.27-06.24.45:659][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.03.27-06.24.45:662][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.24.45:662][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.24.45:662][115]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.24.45:663][115]LogPlayLevel: PIE: World Init took: (0.001343s)
+[2026.03.27-06.24.45:663][115]LogAudio: Display: Creating Audio Device:                 Id: 90, Scope: Unique, Realtime: True
+[2026.03.27-06.24.45:663][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.24.45:663][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.24.45:663][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.24.45:663][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.24.45:663][115]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.24.45:663][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.24.45:663][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.24.45:663][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.24.45:663][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.24.45:663][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.24.45:663][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.24.45:666][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.24.45:796][115]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.24.45:796][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.24.45:796][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.24.45:796][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.24.45:797][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=90
+[2026.03.27-06.24.45:797][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=90
+[2026.03.27-06.24.45:799][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=90
+[2026.03.27-06.24.45:799][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=90
+[2026.03.27-06.24.45:799][115]LogInit: FAudioDevice initialized with ID 90.
+[2026.03.27-06.24.45:799][115]LogAudio: Display: Audio Device (ID: 90) registered with world 'Scene_1'.
+[2026.03.27-06.24.45:799][115]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 90
+[2026.03.27-06.24.45:803][115]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.24.45:815][115]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.24.45
+[2026.03.27-06.24.45:815][115]LogWorld: Bringing up level for play took: 0.013129
+[2026.03.27-06.24.45:821][115]PIE: Server logged in
+[2026.03.27-06.24.45:822][115]PIE: Play in editor total start time 0.228 seconds.
+[2026.03.27-06.24.50:452][385]LogBlueprintUserMessages: [BP_SpikeEnemy_C_19] Player hit
+[2026.03.27-06.24.50:452][385]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.24.51:754][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.24.51:754][461]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.24.51:754][461]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.24.51:756][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.24.51:766][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.24.51:771][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.24.51:793][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.24.51:796][461]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 90
+[2026.03.27-06.24.51:796][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2026.03.27-06.24.51:798][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
+[2026.03.27-06.24.51:808][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.27-06.24.51:883][462]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2026.03.27-06.25.42:924][763]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Scenes/Scene_1.Scene_1:PersistentLevel.Scene_1
+[2026.03.27-06.25.42:924][763]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.25.42:924][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.26.21:999][559]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19896.875000
+[2026.03.27-06.26.22:367][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-06.26.22:367][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19897.220703, Update Interval: 323.055511
+[2026.03.27-06.27.43:514][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.27.43:589][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CubeController" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset" SILENT=true
+[2026.03.27-06.27.43:609][855]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CubeController
+[2026.03.27-06.27.43:610][855]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_CubeController225CA67646832A63230AF2B1DE6AF0A6.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset'
+[2026.03.27-06.27.43:622][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 4.80 sec)
+[2026.03.27-06.27.43:627][855]AssetCheck: New page: Asset Save: BP_CubeController
+[2026.03.27-06.27.43:627][855]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CubeController.BP_CubeController
+[2026.03.27-06.27.44:133][874]BlueprintLog: New page: Compile BP_CubeController
+[2026.03.27-06.27.44:235][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.03.27-06.27.46:903][989]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.27.46:912][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.27.46:912][989]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:27:46)
+[2026.03.27-06.27.46:912][989]LogPlayLevel: Display: Creating online subsystem for client :Context_136
+[2026.03.27-06.27.46:915][989]LogOnline: OSS: Created online subsystem instance for: :Context_136
+[2026.03.27-06.27.46:937][990]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.27.46:961][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022888s)
+[2026.03.27-06.27.46:961][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.022955s)
+[2026.03.27-06.27.46:985][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.27-06.27.46:989][990]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.27.46:989][990]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.27.46:990][990]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.27.46:990][990]LogPlayLevel: PIE: World Init took: (0.001046s)
+[2026.03.27-06.27.46:990][990]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2026.03.27-06.27.46:990][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.27.46:990][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.27.46:990][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.27.46:990][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.27.46:990][990]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.27.46:990][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.27.46:990][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.27.46:990][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.27.46:992][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.27.46:992][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.27.46:992][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.27.46:994][990]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.27.47:142][990]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.27.47:142][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.27.47:142][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.27.47:142][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.27.47:143][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2026.03.27-06.27.47:143][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=91
+[2026.03.27-06.27.47:146][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2026.03.27-06.27.47:146][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2026.03.27-06.27.47:146][990]LogInit: FAudioDevice initialized with ID 91.
+[2026.03.27-06.27.47:146][990]LogAudio: Display: Audio Device (ID: 91) registered with world 'Scene_1'.
+[2026.03.27-06.27.47:146][990]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 91
+[2026.03.27-06.27.47:150][990]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.27.47:162][990]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.27.47
+[2026.03.27-06.27.47:164][990]LogWorld: Bringing up level for play took: 0.013341
+[2026.03.27-06.27.47:169][990]PIE: Server logged in
+[2026.03.27-06.27.47:170][990]PIE: Play in editor total start time 0.258 seconds.
+[2026.03.27-06.27.51:509][246]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.27.51:885][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.27.51:885][267]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.27.51:885][267]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.27.51:887][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.27.51:895][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.27.51:900][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.27.51:922][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-06.27.51:925][267]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 91
+[2026.03.27-06.27.51:925][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2026.03.27-06.27.51:927][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2026.03.27-06.27.51:931][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.27.51:937][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.27-06.27.51:999][268]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2026.03.27-06.28.01:899][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.28.01:958][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.27-06.28.01:965][600]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.27-06.28.01:966][600]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemyAFFFEBEC4644720E85DD519EC5E86E1C.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.27-06.28.01:978][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.88 sec)
+[2026.03.27-06.28.01:980][600]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.27-06.28.01:980][600]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.27-06.28.07:038][859]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.28.07:045][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.28.07:045][859]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:28:07)
+[2026.03.27-06.28.07:045][859]LogPlayLevel: Display: Creating online subsystem for client :Context_137
+[2026.03.27-06.28.07:048][859]LogOnline: OSS: Created online subsystem instance for: :Context_137
+[2026.03.27-06.28.07:071][860]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.28.07:093][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022640s)
+[2026.03.27-06.28.07:094][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.022693s)
+[2026.03.27-06.28.07:115][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.27-06.28.07:121][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.28.07:121][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.28.07:121][860]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.28.07:121][860]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2026.03.27-06.28.07:122][860]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2026.03.27-06.28.07:122][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.28.07:122][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.28.07:122][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.28.07:122][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.28.07:122][860]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.28.07:122][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.28.07:122][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.28.07:122][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.28.07:122][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.28.07:122][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.28.07:122][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.28.07:125][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.28.07:260][860]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.28.07:260][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.28.07:260][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.28.07:260][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.28.07:261][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=92
+[2026.03.27-06.28.07:261][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=92
+[2026.03.27-06.28.07:263][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=92
+[2026.03.27-06.28.07:263][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=92
+[2026.03.27-06.28.07:263][860]LogInit: FAudioDevice initialized with ID 92.
+[2026.03.27-06.28.07:263][860]LogAudio: Display: Audio Device (ID: 92) registered with world 'Scene_1'.
+[2026.03.27-06.28.07:264][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 92
+[2026.03.27-06.28.07:282][860]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.28.07:295][860]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.28.07
+[2026.03.27-06.28.07:295][860]LogWorld: Bringing up level for play took: 0.012831
+[2026.03.27-06.28.07:299][860]PIE: Server logged in
+[2026.03.27-06.28.07:300][860]PIE: Play in editor total start time 0.256 seconds.
+[2026.03.27-06.28.13:005][194]LogBlueprintUserMessages: [BP_SpikeEnemy_C_18] Player hit
+[2026.03.27-06.28.13:005][194]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.28.13:785][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.28.13:785][239]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.28.13:785][239]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.28.13:787][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.28.13:795][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.28.13:800][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.28.13:825][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.28.13:827][239]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 92
+[2026.03.27-06.28.13:827][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2026.03.27-06.28.13:829][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=92
+[2026.03.27-06.28.13:839][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.27-06.28.13:898][240]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2026.03.27-06.28.14:777][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.28.14:786][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.28.14:786][289]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:28:14)
+[2026.03.27-06.28.14:786][289]LogPlayLevel: Display: Creating online subsystem for client :Context_138
+[2026.03.27-06.28.14:790][289]LogOnline: OSS: Created online subsystem instance for: :Context_138
+[2026.03.27-06.28.14:813][290]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.28.14:836][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022653s)
+[2026.03.27-06.28.14:836][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.022724s)
+[2026.03.27-06.28.14:857][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.03.27-06.28.14:860][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.28.14:860][290]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.28.14:861][290]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.28.14:861][290]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2026.03.27-06.28.14:861][290]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2026.03.27-06.28.14:861][290]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.28.14:861][290]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.28.14:861][290]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.28.14:861][290]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.28.14:861][290]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.28.14:861][290]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.28.14:861][290]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.28.14:861][290]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.28.14:861][290]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.28.14:861][290]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.28.14:861][290]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.28.14:864][290]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.28.14:997][290]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.28.14:997][290]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.28.14:997][290]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.28.14:997][290]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.28.14:998][290]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=93
+[2026.03.27-06.28.14:998][290]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=93
+[2026.03.27-06.28.15:000][290]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=93
+[2026.03.27-06.28.15:000][290]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=93
+[2026.03.27-06.28.15:000][290]LogInit: FAudioDevice initialized with ID 93.
+[2026.03.27-06.28.15:000][290]LogAudio: Display: Audio Device (ID: 93) registered with world 'Scene_1'.
+[2026.03.27-06.28.15:000][290]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 93
+[2026.03.27-06.28.15:004][290]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.28.15:015][290]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.28.15
+[2026.03.27-06.28.15:016][290]LogWorld: Bringing up level for play took: 0.012614
+[2026.03.27-06.28.15:021][290]PIE: Server logged in
+[2026.03.27-06.28.15:022][290]PIE: Play in editor total start time 0.236 seconds.
+[2026.03.27-06.28.17:105][411]LogBlueprintUserMessages: [BP_SpikeEnemy_C_67] Player hit
+[2026.03.27-06.28.17:106][411]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.28.22:954][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.28.22:955][760]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.28.22:955][760]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.28.22:957][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.28.22:965][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.28.22:970][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.28.22:994][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.28.22:996][760]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 93
+[2026.03.27-06.28.22:996][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2026.03.27-06.28.22:999][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=93
+[2026.03.27-06.28.23:008][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.27-06.28.23:068][761]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2026.03.27-06.28.23:805][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.28.23:812][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.28.23:812][802]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:28:23)
+[2026.03.27-06.28.23:812][802]LogPlayLevel: Display: Creating online subsystem for client :Context_139
+[2026.03.27-06.28.23:815][802]LogOnline: OSS: Created online subsystem instance for: :Context_139
+[2026.03.27-06.28.23:838][803]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.28.23:861][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023410s)
+[2026.03.27-06.28.23:862][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.023458s)
+[2026.03.27-06.28.23:883][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.27-06.28.23:887][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.28.23:887][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.28.23:888][803]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.28.23:888][803]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2026.03.27-06.28.23:888][803]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2026.03.27-06.28.23:888][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.28.23:888][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.28.23:888][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.28.23:888][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.28.23:888][803]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.28.23:888][803]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.28.23:888][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.28.23:888][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.28.23:889][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.28.23:889][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.28.23:889][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.28.23:891][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.28.24:027][803]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.28.24:028][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.28.24:028][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.28.24:028][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.28.24:028][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=94
+[2026.03.27-06.28.24:028][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=94
+[2026.03.27-06.28.24:030][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=94
+[2026.03.27-06.28.24:030][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=94
+[2026.03.27-06.28.24:030][803]LogInit: FAudioDevice initialized with ID 94.
+[2026.03.27-06.28.24:030][803]LogAudio: Display: Audio Device (ID: 94) registered with world 'Scene_1'.
+[2026.03.27-06.28.24:031][803]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 94
+[2026.03.27-06.28.24:033][803]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.28.24:046][803]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.28.24
+[2026.03.27-06.28.24:047][803]LogWorld: Bringing up level for play took: 0.012513
+[2026.03.27-06.28.24:052][803]PIE: Server logged in
+[2026.03.27-06.28.24:054][803]PIE: Play in editor total start time 0.242 seconds.
+[2026.03.27-06.28.27:317][994]LogBlueprintUserMessages: [BP_SpikeEnemy_C_68] Player hit
+[2026.03.27-06.28.27:317][994]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.28.28:825][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.28.28:825][ 82]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.28.28:825][ 82]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.28.28:827][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.28.28:835][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.28.28:841][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.28.28:866][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.28.28:869][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 94
+[2026.03.27-06.28.28:869][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2026.03.27-06.28.28:872][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=94
+[2026.03.27-06.28.28:882][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.27-06.28.28:945][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2026.03.27-06.28.54:243][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.28.54:305][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CubeController" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset" SILENT=true
+[2026.03.27-06.28.54:323][ 17]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CubeController
+[2026.03.27-06.28.54:324][ 17]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_CubeControllerA31170834E43D3CCFB1C1D8B9CE1D1BF.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset'
+[2026.03.27-06.28.54:335][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.97 sec)
+[2026.03.27-06.28.54:337][ 17]AssetCheck: New page: Asset Save: BP_CubeController
+[2026.03.27-06.28.54:337][ 17]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CubeController.BP_CubeController
+[2026.03.27-06.29.01:943][196]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.29.01:951][196]BlueprintLog: New page: Pre-Play auto-recompile
+[2026.03.27-06.29.01:955][196]LogPlayLevel: [PlayLevel] Compiling BP_CubeController before play...
+[2026.03.27-06.29.02:148][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.03.27-06.29.02:155][196]LogPlayLevel: PlayLevel: Blueprint regeneration took 204 ms (1 blueprints)
+[2026.03.27-06.29.02:155][196]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:29:02)
+[2026.03.27-06.29.02:155][196]LogPlayLevel: Display: Creating online subsystem for client :Context_140
+[2026.03.27-06.29.02:160][196]LogOnline: OSS: Created online subsystem instance for: :Context_140
+[2026.03.27-06.29.02:202][197]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.29.02:225][197]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022710s)
+[2026.03.27-06.29.02:225][197]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.022774s)
+[2026.03.27-06.29.02:248][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.27-06.29.02:251][197]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.29.02:251][197]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.29.02:252][197]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.29.02:252][197]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2026.03.27-06.29.02:252][197]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2026.03.27-06.29.02:252][197]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.29.02:252][197]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.29.02:252][197]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.29.02:252][197]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.29.02:252][197]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.29.02:252][197]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.29.02:252][197]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.29.02:252][197]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.29.02:253][197]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.29.02:253][197]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.29.02:253][197]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.29.02:255][197]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.29.02:392][197]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.29.02:392][197]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.29.02:392][197]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.29.02:392][197]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.29.02:393][197]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=95
+[2026.03.27-06.29.02:393][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=95
+[2026.03.27-06.29.02:395][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=95
+[2026.03.27-06.29.02:395][197]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=95
+[2026.03.27-06.29.02:395][197]LogInit: FAudioDevice initialized with ID 95.
+[2026.03.27-06.29.02:395][197]LogAudio: Display: Audio Device (ID: 95) registered with world 'Scene_1'.
+[2026.03.27-06.29.02:395][197]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 95
+[2026.03.27-06.29.02:398][197]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.29.02:410][197]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.29.02
+[2026.03.27-06.29.02:412][197]LogWorld: Bringing up level for play took: 0.012625
+[2026.03.27-06.29.02:416][197]PIE: Server logged in
+[2026.03.27-06.29.02:418][197]PIE: Play in editor total start time 0.467 seconds.
+[2026.03.27-06.29.04:715][314]LogBlueprintUserMessages: [BP_SpikeEnemy_C_68] Player hit
+[2026.03.27-06.29.04:715][314]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.29.07:032][453]LogBlueprintUserMessages: [BP_SpikeEnemy_C_67] Player hit
+[2026.03.27-06.29.07:032][453]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.29.20:170][240]LogBlueprintUserMessages: [BP_Key_Lv1_C_6] Total Key log: 1
+[2026.03.27-06.29.29:553][803]LogBlueprintUserMessages: [BP_Key_Lv1_C_0] Total Key log: 2
+[2026.03.27-06.29.38:433][335]LogBlueprintUserMessages: [BP_Key_Lv1_C_1] Total Key log: 3
+[2026.03.27-06.29.46:450][816]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.29.47:266][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.29.47:266][863]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.29.47:266][863]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.29.47:267][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.29.47:276][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.29.47:281][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.29.47:305][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.29.47:307][863]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 95
+[2026.03.27-06.29.47:307][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2026.03.27-06.29.47:309][863]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=95
+[2026.03.27-06.29.47:320][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.03.27-06.29.47:378][864]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2026.03.27-06.29.56:493][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.29.56:545][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.27-06.29.56:553][188]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.27-06.29.56:553][188]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy0EF06AA848E090C5D1811EA6A016FD9D.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.27-06.29.56:565][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 5.04 sec)
+[2026.03.27-06.29.56:568][188]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.27-06.29.56:568][188]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.27-06.29.58:673][293]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.29.58:681][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.29.58:681][293]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:29:58)
+[2026.03.27-06.29.58:681][293]LogPlayLevel: Display: Creating online subsystem for client :Context_141
+[2026.03.27-06.29.58:684][293]LogOnline: OSS: Created online subsystem instance for: :Context_141
+[2026.03.27-06.29.58:707][294]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.29.58:731][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024116s)
+[2026.03.27-06.29.58:731][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.024219s)
+[2026.03.27-06.29.58:753][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.27-06.29.58:759][294]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.29.58:760][294]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.29.58:760][294]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.29.58:761][294]LogPlayLevel: PIE: World Init took: (0.001324s)
+[2026.03.27-06.29.58:761][294]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2026.03.27-06.29.58:761][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.29.58:761][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.29.58:761][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.29.58:761][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.29.58:761][294]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.29.58:761][294]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.29.58:761][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.29.58:761][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.29.58:761][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.29.58:761][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.29.58:761][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.29.58:763][294]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.29.58:903][294]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.29.58:903][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.29.58:903][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.29.58:903][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.29.58:904][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=96
+[2026.03.27-06.29.58:904][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=96
+[2026.03.27-06.29.58:907][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=96
+[2026.03.27-06.29.58:907][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=96
+[2026.03.27-06.29.58:907][294]LogInit: FAudioDevice initialized with ID 96.
+[2026.03.27-06.29.58:907][294]LogAudio: Display: Audio Device (ID: 96) registered with world 'Scene_1'.
+[2026.03.27-06.29.58:907][294]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 96
+[2026.03.27-06.29.58:910][294]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.29.58:923][294]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.29.58
+[2026.03.27-06.29.58:923][294]LogWorld: Bringing up level for play took: 0.013195
+[2026.03.27-06.29.58:929][294]PIE: Server logged in
+[2026.03.27-06.29.58:930][294]PIE: Play in editor total start time 0.249 seconds.
+[2026.03.27-06.30.01:124][421]LogBlueprintUserMessages: [BP_SpikeEnemy_C_17] Player hit
+[2026.03.27-06.30.01:125][421]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.30.11:295][ 31]LogCharacterMovement: BP_CubeController_C_0 is stuck and failed to move! Velocity: X=282.43 Y=-87.25 Z=0.00 Location: X=-2834.08 Y=907.27 Z=89.15 Normal: X=0.96 Y=0.29 Z=0.00 PenetrationDepth:8.435 Actor:BP_SphereEnemy_C_2 Component:Sphere BoneName:None (0 other events since notify)
+[2026.03.27-06.30.12:545][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.30.12:545][104]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.30.12:545][104]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.30.12:548][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.30.12:555][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.30.12:561][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.30.12:587][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.30.12:590][104]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 96
+[2026.03.27-06.30.12:590][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2026.03.27-06.30.12:593][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=96
+[2026.03.27-06.30.12:604][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.03.27-06.30.12:666][105]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2026.03.27-06.30.16:218][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.30.16:258][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.27-06.30.16:264][233]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.27-06.30.16:265][233]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemyE1F741904869E3C47EC36C867DBC4DB9.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.27-06.30.16:276][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 5.10 sec)
+[2026.03.27-06.30.16:278][233]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.27-06.30.16:278][233]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.27-06.30.18:509][346]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.30.18:517][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.30.18:517][346]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:30:18)
+[2026.03.27-06.30.18:517][346]LogPlayLevel: Display: Creating online subsystem for client :Context_142
+[2026.03.27-06.30.18:520][346]LogOnline: OSS: Created online subsystem instance for: :Context_142
+[2026.03.27-06.30.18:542][347]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.30.18:566][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022828s)
+[2026.03.27-06.30.18:566][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.022883s)
+[2026.03.27-06.30.18:587][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.27-06.30.18:591][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.30.18:591][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.30.18:593][347]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.30.18:593][347]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2026.03.27-06.30.18:593][347]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2026.03.27-06.30.18:593][347]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.30.18:593][347]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.30.18:593][347]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.30.18:593][347]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.30.18:593][347]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.30.18:593][347]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.30.18:593][347]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.30.18:593][347]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.30.18:594][347]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.30.18:594][347]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.30.18:594][347]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.30.18:597][347]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.30.18:732][347]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.30.18:733][347]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.30.18:733][347]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.30.18:733][347]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.30.18:733][347]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=97
+[2026.03.27-06.30.18:733][347]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=97
+[2026.03.27-06.30.18:737][347]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=97
+[2026.03.27-06.30.18:737][347]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=97
+[2026.03.27-06.30.18:737][347]LogInit: FAudioDevice initialized with ID 97.
+[2026.03.27-06.30.18:737][347]LogAudio: Display: Audio Device (ID: 97) registered with world 'Scene_1'.
+[2026.03.27-06.30.18:737][347]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 97
+[2026.03.27-06.30.18:741][347]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.30.18:754][347]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.30.18
+[2026.03.27-06.30.18:755][347]LogWorld: Bringing up level for play took: 0.014017
+[2026.03.27-06.30.18:761][347]PIE: Server logged in
+[2026.03.27-06.30.18:761][347]PIE: Play in editor total start time 0.245 seconds.
+[2026.03.27-06.30.30:778][ 63]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.30.31:585][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.30.31:585][109]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.30.31:586][109]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.30.31:587][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.30.31:596][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.30.31:601][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.30.31:628][109]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-06.30.31:629][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 97
+[2026.03.27-06.30.31:629][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2026.03.27-06.30.31:631][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2026.03.27-06.30.31:636][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.30.31:643][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.27-06.30.31:707][110]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2026.03.27-06.31.14:305][513]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.31.14:313][513]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.31.14:313][513]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:31:14)
+[2026.03.27-06.31.14:313][513]LogPlayLevel: Display: Creating online subsystem for client :Context_143
+[2026.03.27-06.31.14:315][513]LogOnline: OSS: Created online subsystem instance for: :Context_143
+[2026.03.27-06.31.14:338][514]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.31.14:361][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022397s)
+[2026.03.27-06.31.14:361][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.022444s)
+[2026.03.27-06.31.14:381][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.03.27-06.31.14:387][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.31.14:387][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.31.14:388][514]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.31.14:388][514]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2026.03.27-06.31.14:388][514]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2026.03.27-06.31.14:388][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.31.14:388][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.31.14:388][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.31.14:388][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.31.14:388][514]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.31.14:388][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.31.14:388][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.31.14:388][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.31.14:389][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.31.14:389][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.31.14:389][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.31.14:391][514]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.31.14:526][514]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.31.14:527][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.31.14:527][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.31.14:527][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.31.14:527][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=98
+[2026.03.27-06.31.14:527][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=98
+[2026.03.27-06.31.14:530][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=98
+[2026.03.27-06.31.14:530][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=98
+[2026.03.27-06.31.14:530][514]LogInit: FAudioDevice initialized with ID 98.
+[2026.03.27-06.31.14:530][514]LogAudio: Display: Audio Device (ID: 98) registered with world 'Scene_1'.
+[2026.03.27-06.31.14:530][514]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 98
+[2026.03.27-06.31.14:533][514]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.31.14:544][514]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.31.14
+[2026.03.27-06.31.14:546][514]LogWorld: Bringing up level for play took: 0.012508
+[2026.03.27-06.31.14:551][514]PIE: Server logged in
+[2026.03.27-06.31.14:552][514]PIE: Play in editor total start time 0.24 seconds.
+[2026.03.27-06.31.21:534][928]LogBlueprintUserMessages: [BP_SpikeEnemy_C_16] Player hit
+[2026.03.27-06.31.21:535][928]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.31.27:951][313]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.31.38:804][963]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.38:954][972]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.39:089][980]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.39:289][992]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.39:487][  4]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.39:653][ 14]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.39:838][ 25]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.40:038][ 37]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.40:405][ 59]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.40:554][ 68]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.40:822][ 84]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.41:005][ 95]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.41:189][106]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.41:373][117]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.41:540][127]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.41:725][138]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.41:891][148]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.41:940][151]LogBlueprintUserMessages: [BP_Key_Lv1_C_6] Total Key log: 1
+[2026.03.27-06.31.42:060][158]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.42:226][168]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.31.48:901][568]LogBlueprintUserMessages: [BP_Key_Lv1_C_0] Total Key log: 2
+[2026.03.27-06.31.58:884][167]LogBlueprintUserMessages: [BP_Key_Lv1_C_1] Total Key log: 3
+[2026.03.27-06.32.10:556][867]LogBlueprintUserMessages: [BP_SpikeEnemy_C_30] Player hit
+[2026.03.27-06.32.10:558][867]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.32.12:409][978]LogBlueprintUserMessages: [BP_SpikeEnemy_C_17] Player hit
+[2026.03.27-06.32.12:409][978]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.32.14:325][ 93]LogBlueprintUserMessages: [BP_SpikeEnemy_C_16] Player hit
+[2026.03.27-06.32.14:325][ 93]LogBlueprintUserMessages: [BP_SpikeEnemy_C_16] Player hit
+[2026.03.27-06.32.14:325][ 93]LogBlueprintUserMessages: [BP_SpikeEnemy_C_16] Player hit
+[2026.03.27-06.32.14:325][ 93]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.32.18:604][350]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20253.582031
+[2026.03.27-06.32.18:970][372]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-06.32.18:970][372]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20253.927734, Update Interval: 326.085999
+[2026.03.27-06.32.24:812][721]LogBlueprintUserMessages: [BP_SpeedPowerUp_C_1] true
+[2026.03.27-06.32.29:582][  7]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.29:749][ 17]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.29:883][ 25]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.30:064][ 36]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.30:266][ 48]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.30:499][ 62]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.31:303][110]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.31:519][123]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.31:686][133]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.32:396][175]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.32:530][183]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.32.37:334][471]LogBlueprintUserMessages: [BP_Key_Lv2_C_3] Total Lv2 Key log: 1
+[2026.03.27-06.32.46:422][ 16]LogBlueprintUserMessages: [BP_SpeedPowerUp_C_0] true
+[2026.03.27-06.32.49:788][218]LogBlueprintUserMessages: [BP_Key_Lv2_C_5] Total Lv2 Key log: 2
+[2026.03.27-06.32.50:389][254]LogBlueprintUserMessages: [BP_SpeedPowerUp_C_3] true
+[2026.03.27-06.32.57:992][710]LogBlueprintUserMessages: [BP_SpikeEnemy_C_58] Player hit
+[2026.03.27-06.32.57:992][710]LogBlueprintUserMessages: [BP_SpikeEnemy_C_57] Player hit
+[2026.03.27-06.32.57:992][710]LogBlueprintUserMessages: [BP_SpikeEnemy_C_58] Player hit
+[2026.03.27-06.32.57:992][710]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.32.59:596][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.32.59:596][804]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.32.59:596][804]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.32.59:598][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.32.59:608][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.32.59:616][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.32.59:642][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.32.59:642][804]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 98
+[2026.03.27-06.32.59:642][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2026.03.27-06.32.59:644][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2026.03.27-06.32.59:653][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.27-06.32.59:711][805]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2026.03.27-06.34.34:817][ 76]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_BERing.M_Solid_BERing
+[2026.03.27-06.34.34:822][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.34.34:822][ 76]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.34.35:010][ 76]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.34.35:010][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.34.35:010][ 76]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.34.35:028][ 76]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: Total job queries 818, among them cache hits 756 (92.42%)
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 27 distinct outputs (43.55%)
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: RAM used: 1.50 MiB of 1.60 GiB budget. Usage: 0.09%
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: Shaders Compiled: 0
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2026.03.27-06.34.35:069][ 77]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.34.35:113][ 78]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.34.35:113][ 78]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.34.35:113][ 78]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.34.35:113][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.34.35:113][ 78]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.34.51:216][143]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.34.55:639][361]Cmd: TRANSACTION UNDO
+[2026.03.27-06.34.55:639][361]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.27-06.35.13:074][271]LogMaterialEditor: Saving and Compiling material M_Solid_notebookLine
+[2026.03.27-06.35.16:028][271]LogSlate: Window 'Save Asset As' being destroyed
+[2026.03.27-06.35.16:054][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.35.16:121][271]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_notebookLine_2
+[2026.03.27-06.35.16:121][271]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_notebookLine_2C00DAAED49AA05B87B64F68D9347DB13.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_notebookLine_2.uasset'
+[2026.03.27-06.35.16:132][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 5.17 sec)
+[2026.03.27-06.35.16:181][271]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_notebookLine_2.M_Solid_notebookLine_2
+[2026.03.27-06.35.16:186][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.35.16:186][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.35.16:309][271]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.35.16:309][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.35.16:328][271]AssetCheck: New page: Asset Save: M_Solid_notebookLine_2
+[2026.03.27-06.35.16:328][271]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_notebookLine_2.M_Solid_notebookLine_2
+[2026.03.27-06.35.16:382][271]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.35.16:382][271]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.35.16:382][271]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.35.16:394][271]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-06.35.16:469][273]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.35.16:469][273]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.35.16:469][273]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.35.16:469][273]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.35.16:469][273]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.35.26:368][345]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.35.26:382][345]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.35.26:382][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.35.26:382][345]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.35.26:570][349]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.35.26:570][349]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.35.26:570][349]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.35.26:570][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.35.26:570][349]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.35.28:101][419]LogMaterialEditor: Applying material M_Solid_notebookLine_2
+[2026.03.27-06.35.28:198][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.27-06.35.28:362][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.03.27-06.35.28:378][419]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.35.28:378][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.35.28:378][419]MaterialEditorStats: Shader Count: 2
+[2026.03.27-06.35.31:761][604]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.35.31:762][604]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.35.31:762][604]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.35.31:762][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.35.31:762][604]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.35.42:817][ 19]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.35.42:828][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.35.42:829][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.35.42:829][ 19]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.35.42:930][ 23]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.35.42:930][ 23]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.35.42:930][ 23]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.35.42:930][ 23]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.35.42:930][ 23]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.35.43:636][ 47]LogMaterialEditor: Applying material M_Solid_notebookLine_2
+[2026.03.27-06.35.43:711][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.27-06.35.43:902][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.27-06.36.04:542][478]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.36.04:557][478]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.36.04:557][478]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.36.04:557][478]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.36.04:650][482]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.36.04:650][482]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.36.04:650][482]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.36.04:650][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.36.04:650][482]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.36.05:667][522]LogMaterialEditor: Applying material M_Solid_notebookLine_2
+[2026.03.27-06.36.05:745][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.03.27-06.36.05:932][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.27-06.36.29:816][788]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.36.29:828][788]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.36.29:828][788]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.36.29:828][788]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.36.30:049][792]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.36.30:049][792]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.36.30:049][792]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.36.30:049][792]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.36.30:049][792]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.37.51:546][722]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.37.51:558][722]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.37.51:558][722]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.37.51:558][722]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.37.51:599][724]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: Total job queries 950, among them cache hits 888 (93.47%)
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 27 distinct outputs (43.55%)
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: RAM used: 1.50 MiB of 1.60 GiB budget. Usage: 0.09%
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: Shaders Compiled: 0
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2026.03.27-06.37.51:600][724]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.37.51:778][726]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.37.51:778][726]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.37.51:778][726]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.37.51:778][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.37.51:778][726]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.37.53:885][811]LogMaterialEditor: Applying material M_Solid_notebookLine_2
+[2026.03.27-06.37.53:957][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.27-06.37.54:145][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.27-06.37.54:681][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2026.03.27-06.37.54:756][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Scenes/Scene_1_Auto2
+[2026.03.27-06.37.54:756][829]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1_Auto2E9BAEB644C618C938A4781B356648933.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Autosaves/Game/Scenes/Scene_1_Auto2.umap'
+[2026.03.27-06.37.54:757][829]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Autosaves/Game/Scenes/Scene_1_Auto2.umap is in the /Temp path, will not scan.
+[2026.03.27-06.37.54:758][829]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/Scene_1' took 0.098
+[2026.03.27-06.37.54:758][829]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2026.03.27-06.37.54:758][829]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/NewMaterial/M_Solid_notebookLine_2] ([1] browsable assets)...
+[2026.03.27-06.37.54:782][829]OBJ SavePackage:     Rendered thumbnail for [Material /Game/NewMaterial/M_Solid_notebookLine_2.M_Solid_notebookLine_2]
+[2026.03.27-06.37.54:782][829]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMaterial/M_Solid_notebookLine_2]
+[2026.03.27-06.37.54:784][829]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NewMaterial/M_Solid_notebookLine_2_Auto2
+[2026.03.27-06.37.54:784][829]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_notebookLine_2_Auto2F0EDD4684E23C4E1EC8DAB8D87F3A7C6.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Autosaves/Game/NewMaterial/M_Solid_notebookLine_2_Auto2.uasset'
+[2026.03.27-06.37.54:784][829]LogFileHelpers: Auto-saving content packages took 0.027
+[2026.03.27-06.37.54:861][830]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.37.54:861][830]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.37.54:861][830]MaterialEditorStats: MaxSampler: 244 instructions
+[2026.03.27-06.37.54:861][830]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.27-06.37.54:861][830]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-06.37.54:861][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.37.54:861][830]MaterialEditorStats: Shader Count: 30
+[2026.03.27-06.38.38:815][201]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20633.685547
+[2026.03.27-06.38.39:813][204]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-06.38.39:813][204]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20634.351562, Update Interval: 304.792023
+[2026.03.27-06.38.46:949][317]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_MCBody.M_Solid_MCBody
+[2026.03.27-06.38.46:953][317]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.38.46:953][317]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.38.47:104][317]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.38.47:104][317]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.38.47:104][317]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.38.47:120][317]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-06.38.47:197][319]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.38.47:197][319]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.38.47:197][319]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.38.47:197][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.38.47:197][319]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.38.56:545][417]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.38.56:555][417]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.38.56:555][417]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.38.56:555][417]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.38.56:743][421]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.38.56:743][421]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.38.56:743][421]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.38.56:743][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.38.56:743][421]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.38.57:882][466]LogMaterialEditor: Applying material M_Solid_MCBody
+[2026.03.27-06.38.57:983][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.03.27-06.38.58:140][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.27-06.39.10:703][985]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.39.10:711][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.39.10:711][985]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:39:10)
+[2026.03.27-06.39.10:711][985]LogPlayLevel: Display: Creating online subsystem for client :Context_147
+[2026.03.27-06.39.10:715][985]LogOnline: OSS: Created online subsystem instance for: :Context_147
+[2026.03.27-06.39.10:737][986]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.39.10:759][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021980s)
+[2026.03.27-06.39.10:759][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.022034s)
+[2026.03.27-06.39.10:783][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.27-06.39.10:787][986]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.39.10:787][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.39.10:787][986]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.39.10:788][986]LogPlayLevel: PIE: World Init took: (0.001266s)
+[2026.03.27-06.39.10:788][986]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2026.03.27-06.39.10:788][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.39.10:788][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.39.10:788][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.39.10:788][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.39.10:788][986]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.39.10:789][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.39.10:789][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.39.10:789][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.39.10:789][986]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.39.10:789][986]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.39.10:789][986]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.39.10:791][986]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.39.10:926][986]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.39.10:927][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.39.10:927][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.39.10:927][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.39.10:927][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=99
+[2026.03.27-06.39.10:928][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=99
+[2026.03.27-06.39.10:930][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=99
+[2026.03.27-06.39.10:930][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=99
+[2026.03.27-06.39.10:930][986]LogInit: FAudioDevice initialized with ID 99.
+[2026.03.27-06.39.10:930][986]LogAudio: Display: Audio Device (ID: 99) registered with world 'Scene_1'.
+[2026.03.27-06.39.10:930][986]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 99
+[2026.03.27-06.39.10:933][986]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.39.10:946][986]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.39.10
+[2026.03.27-06.39.10:947][986]LogWorld: Bringing up level for play took: 0.013046
+[2026.03.27-06.39.10:952][986]PIE: Server logged in
+[2026.03.27-06.39.10:953][986]PIE: Play in editor total start time 0.242 seconds.
+[2026.03.27-06.39.17:263][343]LogBlueprintUserMessages: [BP_SpikeEnemy_C_18] Player hit
+[2026.03.27-06.39.17:263][343]LogBlueprintUserMessages: [BP_SpikeEnemy_C_18] Player hit
+[2026.03.27-06.39.17:263][343]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.39.32:835][271]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.32:983][278]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.33:133][287]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.33:370][301]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.33:537][311]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.33:721][322]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.34:038][341]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.34:238][353]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.34:461][364]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.34:645][375]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.36:236][470]LogBlueprintUserMessages: [BP_Key_Lv1_C_6] Total Key log: 1
+[2026.03.27-06.39.37:355][537]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.39.51:262][370]LogBlueprintUserMessages: [BP_Key_Lv1_C_0] Total Key log: 2
+[2026.03.27-06.39.53:251][489]LogBlueprintUserMessages: [BP_SpikeEnemy_C_29] Player hit
+[2026.03.27-06.39.53:251][489]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.39.56:102][660]LogBlueprintUserMessages: [BP_SpikeEnemy_C_17] Player hit
+[2026.03.27-06.39.56:104][660]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.40.17:382][933]LogBlueprintUserMessages: [BP_SpikeEnemy_C_0] Player hit
+[2026.03.27-06.40.17:382][933]LogBlueprintUserMessages: [BP_SpikeEnemy_C_0] Player hit
+[2026.03.27-06.40.17:382][933]LogBlueprintUserMessages: [BP_SpikeEnemy_C_1] Player hit
+[2026.03.27-06.40.17:383][933]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.40.34:321][943]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.40.37:578][138]LogBlueprintUserMessages: [BP_SpikeEnemy_C_18] Player hit
+[2026.03.27-06.40.37:580][138]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.40.49:996][880]LogBlueprintUserMessages: [BP_SpikeEnemy_C_3] Player hit
+[2026.03.27-06.40.49:996][880]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.41.16:028][434]LogBlueprintUserMessages: [BP_Key_Lv1_C_1] Total Key log: 3
+[2026.03.27-06.41.22:452][819]LogBlueprintUserMessages: [BP_SpikeEnemy_C_29] Player hit
+[2026.03.27-06.41.22:452][819]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.41.35:154][574]LogBlueprintUserMessages: [BP_SpeedPowerUp_C_1] true
+[2026.03.27-06.41.39:112][811]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.39:281][821]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.39:436][829]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.39:632][840]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.39:765][848]LogBlueprintUserMessages: [BP_SpikeEnemy_C_10] Player hit
+[2026.03.27-06.41.39:765][848]LogBlueprintUserMessages: [BP_SpikeEnemy_C_10] Player hit
+[2026.03.27-06.41.39:766][848]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.41.39:818][851]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.40:040][864]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.40:894][915]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.41.40:894][915]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.41.41:414][946]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.41:600][957]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.41:785][968]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.41:969][979]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.42:152][990]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.42:322][  0]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.42:492][ 10]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.42:673][ 21]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.42:876][ 33]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.43:047][ 43]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.43:217][ 53]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.41.52:318][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.41.52:318][596]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.41.52:318][596]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.41.52:320][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.41.52:332][596]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.41.52:337][596]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.41.52:365][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.41.52:366][596]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 99
+[2026.03.27-06.41.52:366][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99
+[2026.03.27-06.41.52:368][596]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99
+[2026.03.27-06.41.52:380][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.27-06.41.52:458][597]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2026.03.27-06.42.22:025][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpikeEnemy.BP_SpikeEnemy
+[2026.03.27-06.42.22:026][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.42.22:026][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.42.23:806][856]LogViewport: Scene viewport resized to 1141x867, mode Windowed.
+[2026.03.27-06.44.19:588][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20974.404297
+[2026.03.27-06.44.19:929][264]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-06.44.19:929][264]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20974.722656, Update Interval: 312.198853
+[2026.03.27-06.45.25:819][731]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.27-06.46.01:072][ 25]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.27-06.46.42:044][586]BlueprintLog: New page: Compile BP_CubeController
+[2026.03.27-06.46.42:199][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2026.03.27-06.46.47:686][801]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.46.47:694][801]BlueprintLog: New page: Pre-Play auto-recompile
+[2026.03.27-06.46.47:695][801]LogPlayLevel: [PlayLevel] Compiling BP_SphereEnemy before play...
+[2026.03.27-06.46.47:809][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.27-06.46.47:815][801]LogPlayLevel: PlayLevel: Blueprint regeneration took 121 ms (1 blueprints)
+[2026.03.27-06.46.47:815][801]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:46:47)
+[2026.03.27-06.46.47:815][801]LogPlayLevel: Display: Creating online subsystem for client :Context_149
+[2026.03.27-06.46.47:818][801]LogOnline: OSS: Created online subsystem instance for: :Context_149
+[2026.03.27-06.46.47:861][802]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.46.47:883][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021815s)
+[2026.03.27-06.46.47:883][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.021881s)
+[2026.03.27-06.46.47:906][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.27-06.46.47:909][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.46.47:909][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.46.47:910][802]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.46.47:911][802]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2026.03.27-06.46.47:911][802]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2026.03.27-06.46.47:911][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.46.47:911][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.46.47:911][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.46.47:911][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.46.47:911][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.46.47:911][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.46.47:911][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.46.47:911][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.46.47:912][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.46.47:912][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.46.47:912][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.46.47:914][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.46.48:050][802]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.46.48:050][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.46.48:050][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.46.48:050][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.46.48:051][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=100
+[2026.03.27-06.46.48:051][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=100
+[2026.03.27-06.46.48:053][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=100
+[2026.03.27-06.46.48:053][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=100
+[2026.03.27-06.46.48:053][802]LogInit: FAudioDevice initialized with ID 100.
+[2026.03.27-06.46.48:053][802]LogAudio: Display: Audio Device (ID: 100) registered with world 'Scene_1'.
+[2026.03.27-06.46.48:054][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 100
+[2026.03.27-06.46.48:057][802]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.46.48:069][802]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.46.48
+[2026.03.27-06.46.48:069][802]LogWorld: Bringing up level for play took: 0.011473
+[2026.03.27-06.46.48:074][802]PIE: Server logged in
+[2026.03.27-06.46.48:074][802]PIE: Play in editor total start time 0.381 seconds.
+[2026.03.27-06.46.54:959][206]LogBlueprintUserMessages: [BP_SpikeEnemy_C_15] Player hit
+[2026.03.27-06.46.54:959][206]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.47.09:585][ 76]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.09:767][ 87]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.09:919][ 96]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.10:101][107]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.10:262][116]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.10:446][127]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.10:646][139]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.10:829][150]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.10:997][160]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.11:165][170]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.11:343][180]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.11:509][190]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.11:678][200]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.11:846][210]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.12:029][221]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.12:231][233]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.12:439][245]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.12:656][258]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.12:842][269]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.13:011][279]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.13:212][291]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.13:397][302]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.13:580][313]LogBlueprintUserMessages: [BP_CubeController_C_0] shoot
+[2026.03.27-06.47.13:747][323]LogBlueprintUserMessages: [BP_Key_Lv1_C_6] Total Key log: 1
+[2026.03.27-06.47.21:582][792]LogBlueprintUserMessages: [BP_Key_Lv1_C_0] Total Key log: 2
+[2026.03.27-06.47.32:736][458]LogBlueprintUserMessages: [BP_Key_Lv1_C_1] Total Key log: 3
+[2026.03.27-06.47.44:850][183]LogBlueprintUserMessages: [BP_SpeedPowerUp_C_1] true
+[2026.03.27-06.47.48:566][405]LogBlueprintUserMessages: [BP_SpikeEnemy_C_11] Player hit
+[2026.03.27-06.47.48:566][405]LogBlueprintUserMessages: [BP_SpikeEnemy_C_11] Player hit
+[2026.03.27-06.47.48:566][405]LogBlueprintUserMessages: [BP_SpikeEnemy_C_11] Player hit
+[2026.03.27-06.47.48:567][405]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.47.48:784][418]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.47.48:784][418]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.47.48:784][418]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.47.48:784][418]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.47.48:785][418]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.47.49:016][432]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.47.49:017][432]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.47.49:017][432]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.47.49:017][432]LogBlueprintUserMessages: [BP_SpikeEnemy_C_71] Player hit
+[2026.03.27-06.47.49:017][432]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.47.49:283][448]LogBlueprintUserMessages: [BP_SpikeEnemy_C_68] Player hit
+[2026.03.27-06.47.49:283][448]LogBlueprintUserMessages: [BP_SpikeEnemy_C_67] Player hit
+[2026.03.27-06.47.49:283][448]LogBlueprintUserMessages: [BP_SpikeEnemy_C_67] Player hit
+[2026.03.27-06.47.49:283][448]LogBlueprintUserMessages: [BP_SpikeEnemy_C_67] Player hit
+[2026.03.27-06.47.49:283][448]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.47.49:602][467]LogBlueprintUserMessages: [BP_SpikeEnemy_C_67] Player hit
+[2026.03.27-06.47.49:602][467]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.47.49:809][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.47.49:809][477]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.47.49:809][477]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.47.49:811][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.47.49:821][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.47.49:826][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.47.49:853][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.47.49:856][477]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 100
+[2026.03.27-06.47.49:856][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2026.03.27-06.47.49:858][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2026.03.27-06.47.49:869][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.27-06.47.49:928][478]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2026.03.27-06.47.54:978][700]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_ballEnemy.M_Solid_ballEnemy
+[2026.03.27-06.47.54:984][700]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.47.54:984][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.47.55:148][700]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.47.55:149][700]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.47.55:149][700]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.47.55:161][700]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: Total job queries 1,032, among them cache hits 970 (93.99%)
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 27 distinct outputs (43.55%)
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: RAM used: 1.50 MiB of 1.60 GiB budget. Usage: 0.09%
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: Shaders Compiled: 0
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2026.03.27-06.47.55:206][701]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.47.55:243][702]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.47.55:243][702]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.47.55:243][702]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.47.55:243][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.47.55:243][702]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.48.02:261][766]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.48.02:275][766]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.48.02:275][766]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.48.02:275][766]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.48.02:476][770]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.48.02:476][770]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.48.02:476][770]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.48.02:476][770]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.48.02:476][770]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.48.03:447][810]LogMaterialEditor: Applying material M_Solid_ballEnemy
+[2026.03.27-06.48.03:554][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.27-06.48.03:728][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.27-06.49.08:031][276]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_Eye.M_Solid_Eye
+[2026.03.27-06.49.08:036][276]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.49.08:036][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.49.08:217][276]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.49.08:218][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.08:218][276]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.49.08:232][276]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-06.49.08:312][278]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.27-06.49.08:312][278]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.49.08:312][278]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.49.08:312][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.08:312][278]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.49.15:789][586]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.49.15:789][586]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.15:789][586]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.49.15:846][587]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.27-06.49.15:846][587]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.49.15:846][587]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.49.15:846][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.15:846][587]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.49.18:901][711]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.49.18:901][711]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.18:901][711]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.49.18:949][713]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.27-06.49.18:949][713]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.49.18:949][713]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.49.18:949][713]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.18:949][713]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.49.22:308][849]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.49.22:309][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.22:309][849]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.49.22:389][851]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.27-06.49.22:389][851]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.49.22:389][851]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.49.22:389][851]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.22:389][851]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.49.26:847][896]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.49.26:858][896]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.49.26:858][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.26:858][896]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.49.26:987][900]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.27-06.49.26:987][900]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.49.26:987][900]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.49.26:987][900]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.26:987][900]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.49.28:714][966]LogMaterialEditor: Applying material M_Solid_Eye
+[2026.03.27-06.49.28:826][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.27-06.49.28:992][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.03.27-06.49.35:873][222]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.49.35:873][222]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.35:873][222]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.49.35:921][224]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.49.35:921][224]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.49.35:921][224]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.49.35:921][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.35:921][224]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.49.38:501][331]LogMaterialEditor: Applying material M_Solid_Eye
+[2026.03.27-06.49.38:589][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.03.27-06.49.38:783][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2026.03.27-06.49.53:591][905]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.49.53:591][905]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.53:591][905]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.49.53:641][907]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.27-06.49.53:641][907]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.49.53:641][907]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.49.53:641][907]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.49.53:641][907]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.50.03:506][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21318.224609
+[2026.03.27-06.50.03:862][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-06.50.03:862][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21318.556641, Update Interval: 351.659302
+[2026.03.27-06.50.08:030][443]LogMaterialEditor: Applying material M_Solid_Eye
+[2026.03.27-06.50.08:141][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.27-06.50.08:310][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.27-06.50.44:794][794]BlueprintLog: New page: Compile BP_SphereEnemy
+[2026.03.27-06.50.44:909][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.27-06.50.48:166][936]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.50.48:181][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.50.48:181][936]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:50:48)
+[2026.03.27-06.50.48:181][936]LogPlayLevel: Display: Creating online subsystem for client :Context_152
+[2026.03.27-06.50.48:184][936]LogOnline: OSS: Created online subsystem instance for: :Context_152
+[2026.03.27-06.50.48:208][937]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.50.48:232][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023362s)
+[2026.03.27-06.50.48:232][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.023429s)
+[2026.03.27-06.50.48:257][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.03.27-06.50.48:261][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.50.48:261][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.50.48:262][937]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.50.48:262][937]LogPlayLevel: PIE: World Init took: (0.001396s)
+[2026.03.27-06.50.48:262][937]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2026.03.27-06.50.48:262][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.50.48:262][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.50.48:262][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.50.48:262][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.50.48:262][937]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.50.48:262][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.50.48:262][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.50.48:262][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.50.48:263][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.50.48:263][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.50.48:263][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.50.48:265][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.50.48:404][937]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.50.48:404][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.50.48:404][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.50.48:404][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.50.48:405][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=101
+[2026.03.27-06.50.48:405][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=101
+[2026.03.27-06.50.48:408][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=101
+[2026.03.27-06.50.48:408][937]LogInit: FAudioDevice initialized with ID 101.
+[2026.03.27-06.50.48:408][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=101
+[2026.03.27-06.50.48:408][937]LogAudio: Display: Audio Device (ID: 101) registered with world 'Scene_1'.
+[2026.03.27-06.50.48:408][937]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 101
+[2026.03.27-06.50.48:410][937]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.50.48:424][937]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.50.48
+[2026.03.27-06.50.48:425][937]LogWorld: Bringing up level for play took: 0.013934
+[2026.03.27-06.50.48:430][937]PIE: Server logged in
+[2026.03.27-06.50.48:432][937]PIE: Play in editor total start time 0.252 seconds.
+[2026.03.27-06.50.57:750][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.50.57:750][453]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.50.57:750][453]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.50.57:752][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.50.57:759][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.50.57:765][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.50.57:797][453]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-06.50.57:798][453]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 101
+[2026.03.27-06.50.57:798][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101
+[2026.03.27-06.50.57:801][453]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101
+[2026.03.27-06.50.57:805][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.50.57:812][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.03.27-06.50.57:876][454]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2026.03.27-06.51.17:226][109]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.51.17:234][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.51.17:234][109]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:51:17)
+[2026.03.27-06.51.17:234][109]LogPlayLevel: Display: Creating online subsystem for client :Context_153
+[2026.03.27-06.51.17:238][109]LogOnline: OSS: Created online subsystem instance for: :Context_153
+[2026.03.27-06.51.17:263][110]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.51.17:288][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024216s)
+[2026.03.27-06.51.17:288][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.024291s)
+[2026.03.27-06.51.17:312][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.27-06.51.17:318][110]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.51.17:318][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.51.17:318][110]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.51.17:320][110]LogPlayLevel: PIE: World Init took: (0.001736s)
+[2026.03.27-06.51.17:320][110]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2026.03.27-06.51.17:320][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.51.17:320][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.51.17:320][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.51.17:320][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.51.17:320][110]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.51.17:320][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.51.17:320][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.51.17:320][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.51.17:321][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.51.17:321][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.51.17:321][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.51.17:323][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.51.17:467][110]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.51.17:467][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.51.17:467][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.51.17:467][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.51.17:467][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=102
+[2026.03.27-06.51.17:467][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=102
+[2026.03.27-06.51.17:470][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=102
+[2026.03.27-06.51.17:470][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=102
+[2026.03.27-06.51.17:470][110]LogInit: FAudioDevice initialized with ID 102.
+[2026.03.27-06.51.17:470][110]LogAudio: Display: Audio Device (ID: 102) registered with world 'Scene_1'.
+[2026.03.27-06.51.17:470][110]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 102
+[2026.03.27-06.51.17:473][110]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.51.17:487][110]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.51.17
+[2026.03.27-06.51.17:487][110]LogWorld: Bringing up level for play took: 0.013353
+[2026.03.27-06.51.17:492][110]PIE: Server logged in
+[2026.03.27-06.51.17:493][110]PIE: Play in editor total start time 0.259 seconds.
+[2026.03.27-06.51.32:900][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.51.32:900][ 16]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.51.32:900][ 16]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.51.32:902][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.51.32:909][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.51.32:918][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.51.32:953][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-06.51.32:954][ 16]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 102
+[2026.03.27-06.51.32:954][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=102
+[2026.03.27-06.51.32:957][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=102
+[2026.03.27-06.51.32:962][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.51.32:970][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.03.27-06.51.33:041][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2026.03.27-06.51.39:929][246]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.27-06.52.50:300][885]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.27-06.53.01:588][285]LogEditorTransaction: Undo Set Location
+[2026.03.27-06.54.42:139][  8]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.54.42:192][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.27-06.54.42:200][  8]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.27-06.54.42:200][  8]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy609A4AF548CC0849423007AAAEF89948.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.27-06.54.42:209][  8]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 5.24 sec)
+[2026.03.27-06.54.42:214][  8]AssetCheck: New page: Asset Save: BP_SphereEnemy
+[2026.03.27-06.54.42:214][  8]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.27-06.54.42:918][ 34]BlueprintLog: New page: Compile BP_SphereEnemy
+[2026.03.27-06.54.43:089][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.27-06.54.46:042][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.54.46:050][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.54.46:050][170]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:54:46)
+[2026.03.27-06.54.46:099][170]LogPlayLevel: Display: Creating online subsystem for client :Context_154
+[2026.03.27-06.54.46:102][170]LogOnline: OSS: Created online subsystem instance for: :Context_154
+[2026.03.27-06.54.46:123][171]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.54.46:145][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022266s)
+[2026.03.27-06.54.46:145][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.022329s)
+[2026.03.27-06.54.46:172][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.27-06.54.46:176][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.54.46:176][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.54.46:176][171]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.54.46:176][171]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2026.03.27-06.54.46:176][171]LogAudio: Display: Creating Audio Device:                 Id: 103, Scope: Unique, Realtime: True
+[2026.03.27-06.54.46:176][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.54.46:176][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.54.46:176][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.54.46:176][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.54.46:176][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.54.46:176][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.54.46:176][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.54.46:176][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.54.46:177][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.54.46:177][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.54.46:177][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.54.46:180][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.54.46:316][171]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.54.46:316][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.54.46:316][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.54.46:316][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.54.46:316][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=103
+[2026.03.27-06.54.46:317][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=103
+[2026.03.27-06.54.46:319][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=103
+[2026.03.27-06.54.46:319][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=103
+[2026.03.27-06.54.46:319][171]LogInit: FAudioDevice initialized with ID 103.
+[2026.03.27-06.54.46:319][171]LogAudio: Display: Audio Device (ID: 103) registered with world 'Scene_1'.
+[2026.03.27-06.54.46:319][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 103
+[2026.03.27-06.54.46:322][171]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.54.46:335][171]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.54.46
+[2026.03.27-06.54.46:336][171]LogWorld: Bringing up level for play took: 0.012711
+[2026.03.27-06.54.46:340][171]PIE: Server logged in
+[2026.03.27-06.54.46:342][171]PIE: Play in editor total start time 0.292 seconds.
+[2026.03.27-06.55.03:880][ 73]LogBlueprintUserMessages: [BP_CubeController_C_0] true
+[2026.03.27-06.55.09:750][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.55.09:750][416]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.55.09:750][416]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.55.09:753][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.55.09:759][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.55.09:766][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.55.09:797][416]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-06.55.09:797][416]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 103
+[2026.03.27-06.55.09:797][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=103
+[2026.03.27-06.55.09:799][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=103
+[2026.03.27-06.55.09:803][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.55.09:812][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.27-06.55.09:873][417]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2026.03.27-06.55.26:464][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.03.27-06.55.26:472][992]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.55.26:553][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.27-06.55.26:631][992]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-06.55.26:632][992]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1745C297747D7F51F5A27B587020EAD1A.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-06.55.26:640][992]LogFileHelpers: Saving map 'Scene_1' took 0.132
+[2026.03.27-06.55.26:652][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CubeController" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset" SILENT=true
+[2026.03.27-06.55.26:670][992]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CubeController
+[2026.03.27-06.55.26:670][992]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_CubeController2B89FB7B4E4EA0107CCC7BADD9CC5807.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_CubeController.uasset'
+[2026.03.27-06.55.26:680][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.27-06.55.26:686][992]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.27-06.55.26:686][992]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy0076F1634F673579DA5EFC9B31AD3A04.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: Total job queries 1,172, among them cache hits 1,110 (94.71%)
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 27 distinct outputs (43.55%)
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: RAM used: 1.50 MiB of 1.60 GiB budget. Usage: 0.09%
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: Shaders Compiled: 0
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2026.03.27-06.55.26:705][992]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.55.26:716][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Solid_ballEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_ballEnemy.uasset" SILENT=true
+[2026.03.27-06.55.26:719][992]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_ballEnemy
+[2026.03.27-06.55.26:720][992]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_ballEnemy2949E7EE4B430FFBB06642BDE89D4DC4.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_ballEnemy.uasset'
+[2026.03.27-06.55.26:750][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Solid_Eye" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_Eye.uasset" SILENT=true
+[2026.03.27-06.55.26:754][992]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_Eye
+[2026.03.27-06.55.26:754][992]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_EyeC40EAFC043CEF91A3129B2ABF6403F39.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_Eye.uasset'
+[2026.03.27-06.55.26:781][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Solid_MCBody" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_MCBody.uasset" SILENT=true
+[2026.03.27-06.55.26:785][992]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_MCBody
+[2026.03.27-06.55.26:785][992]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_MCBody00DB4BE14918F3DF0219CA9DD7827781.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_MCBody.uasset'
+[2026.03.27-06.55.26:787][992]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_notebookLine_2
+[2026.03.27-06.55.26:788][992]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_notebookLine_2A56551EF44999029DC384A94AB0ECBDD.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_notebookLine_2.uasset'
+[2026.03.27-06.55.26:804][992]LogFileHelpers: InternalPromptForCheckoutAndSave took 332 ms (total: 5.58 sec)
+[2026.03.27-06.55.26:809][992]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.27-06.55.26:809][992]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-06.55.26:809][992]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_CubeController.BP_CubeController
+[2026.03.27-06.55.26:809][992]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.27-06.55.26:809][992]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_ballEnemy.M_Solid_ballEnemy
+[2026.03.27-06.55.26:809][992]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_Eye.M_Solid_Eye
+[2026.03.27-06.55.26:809][992]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_MCBody.M_Solid_MCBody
+[2026.03.27-06.55.26:809][992]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_notebookLine_2.M_Solid_notebookLine_2
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: MaxSampler: 244 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Shader Count: 30
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: MaxSampler: 244 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Shader Count: 30
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass shader: 200 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: MaxSampler: 248 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.55.26:811][992]MaterialEditorStats: Shader Count: 30
+[2026.03.27-06.55.29:084][ 87]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.55.29:093][ 87]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.55.29:093][ 87]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:55:29)
+[2026.03.27-06.55.29:093][ 87]LogPlayLevel: Display: Creating online subsystem for client :Context_155
+[2026.03.27-06.55.29:096][ 87]LogOnline: OSS: Created online subsystem instance for: :Context_155
+[2026.03.27-06.55.29:120][ 88]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.55.29:145][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024630s)
+[2026.03.27-06.55.29:145][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.024710s)
+[2026.03.27-06.55.29:173][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.27-06.55.29:176][ 88]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.55.29:176][ 88]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.55.29:177][ 88]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.55.29:177][ 88]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2026.03.27-06.55.29:177][ 88]LogAudio: Display: Creating Audio Device:                 Id: 104, Scope: Unique, Realtime: True
+[2026.03.27-06.55.29:177][ 88]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.55.29:177][ 88]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.55.29:177][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.55.29:177][ 88]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.55.29:177][ 88]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.55.29:178][ 88]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.55.29:178][ 88]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.55.29:178][ 88]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.55.29:178][ 88]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.55.29:178][ 88]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.55.29:178][ 88]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.55.29:181][ 88]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.55.29:318][ 88]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.55.29:318][ 88]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.55.29:318][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.55.29:318][ 88]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.55.29:319][ 88]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=104
+[2026.03.27-06.55.29:319][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=104
+[2026.03.27-06.55.29:322][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=104
+[2026.03.27-06.55.29:322][ 88]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=104
+[2026.03.27-06.55.29:322][ 88]LogInit: FAudioDevice initialized with ID 104.
+[2026.03.27-06.55.29:322][ 88]LogAudio: Display: Audio Device (ID: 104) registered with world 'Scene_1'.
+[2026.03.27-06.55.29:322][ 88]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 104
+[2026.03.27-06.55.29:325][ 88]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.55.29:337][ 88]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.55.29
+[2026.03.27-06.55.29:338][ 88]LogWorld: Bringing up level for play took: 0.012887
+[2026.03.27-06.55.29:344][ 88]PIE: Server logged in
+[2026.03.27-06.55.29:345][ 88]PIE: Play in editor total start time 0.253 seconds.
+[2026.03.27-06.55.38:560][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.55.38:560][609]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.55.38:560][609]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.55.38:563][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.55.38:572][609]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.55.38:579][609]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.55.38:616][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.55.38:616][609]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 104
+[2026.03.27-06.55.38:618][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=104
+[2026.03.27-06.55.38:621][609]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=104
+[2026.03.27-06.55.38:637][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.27-06.55.38:705][610]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2026.03.27-06.56.15:219][ 15]BlueprintLog: New page: Compile BP_SphereEnemy
+[2026.03.27-06.56.15:349][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.03.27-06.56.18:519][147]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-06.56.18:529][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-06.56.18:529][147]PIE: New page: PIE session: Scene_1 (27 มี.ค. 2569 20:56:18)
+[2026.03.27-06.56.18:529][147]LogPlayLevel: Display: Creating online subsystem for client :Context_156
+[2026.03.27-06.56.18:535][147]LogOnline: OSS: Created online subsystem instance for: :Context_156
+[2026.03.27-06.56.18:566][148]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.56.18:600][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033446s)
+[2026.03.27-06.56.18:600][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/Scene_1.Scene_1 to /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 (0.033530s)
+[2026.03.27-06.56.18:632][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.27-06.56.18:636][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.56.18:636][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.56.18:637][148]LogAIModule: Creating AISystem for world Scene_1
+[2026.03.27-06.56.18:637][148]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2026.03.27-06.56.18:637][148]LogAudio: Display: Creating Audio Device:                 Id: 105, Scope: Unique, Realtime: True
+[2026.03.27-06.56.18:637][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-06.56.18:637][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-06.56.18:637][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-06.56.18:637][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-06.56.18:637][148]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-06.56.18:637][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-06.56.18:637][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-06.56.18:637][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-06.56.18:639][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-06.56.18:639][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-06.56.18:639][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-06.56.18:642][148]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-06.56.18:785][148]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2026.03.27-06.56.18:785][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-06.56.18:785][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-06.56.18:785][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-06.56.18:786][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=105
+[2026.03.27-06.56.18:786][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=105
+[2026.03.27-06.56.18:789][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=105
+[2026.03.27-06.56.18:789][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=105
+[2026.03.27-06.56.18:789][148]LogInit: FAudioDevice initialized with ID 105.
+[2026.03.27-06.56.18:789][148]LogAudio: Display: Audio Device (ID: 105) registered with world 'Scene_1'.
+[2026.03.27-06.56.18:789][148]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 105
+[2026.03.27-06.56.18:792][148]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.27-06.56.18:806][148]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_Scene_1.Scene_1 up for play (max tick rate 60) at 2026.03.27-13.56.18
+[2026.03.27-06.56.18:806][148]LogWorld: Bringing up level for play took: 0.013442
+[2026.03.27-06.56.18:811][148]PIE: Server logged in
+[2026.03.27-06.56.18:812][148]PIE: Play in editor total start time 0.283 seconds.
+[2026.03.27-06.56.31:079][865]LogDerivedDataCache: C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.144 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2716 files in 3851 folders with total size 88 MiB.
+[2026.03.27-06.56.32:722][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21707.443359
+[2026.03.27-06.56.33:531][  7]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-06.56.33:531][  7]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21708.234375, Update Interval: 336.618561
+[2026.03.27-06.56.49:651][953]LogBlueprintUserMessages: [BP_Key_Lv2_C_3] Total Lv2 Key log: 1
+[2026.03.27-06.57.04:861][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.57.04:861][849]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_Scene_1
+[2026.03.27-06.57.04:861][849]LogWorld: UWorld::CleanupWorld for Scene_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.57.04:863][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.57.04:870][849]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-06.57.04:876][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.57.04:909][849]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-06.57.04:911][849]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 105
+[2026.03.27-06.57.04:911][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=105
+[2026.03.27-06.57.04:913][849]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=105
+[2026.03.27-06.57.04:921][849]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-06.57.04:926][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.27-06.57.04:991][850]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2026.03.27-06.57.22:950][803]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows.M_LightStage_Arrows
+[2026.03.27-06.57.22:960][803]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.57.22:960][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.57.23:180][803]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.57.23:180][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.57.23:180][803]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.57.23:199][803]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-06.57.38:581][857]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-06.57.38:617][858]MaterialEditorStats: Base pass shader without light map: 100 instructions
+[2026.03.27-06.57.38:617][858]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.57.38:617][858]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.57.38:617][858]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.57.38:617][858]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.57.43:735][ 69]LogMaterialEditor: Saving and Compiling material M_LightStage_Arrows
+[2026.03.27-06.58.00:422][ 69]LogSlate: Window 'Save Asset As' being destroyed
+[2026.03.27-06.58.00:439][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-06.58.00:889][ 69]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Assets/M_WhatRUtryingtodoAtom
+[2026.03.27-06.58.00:889][ 69]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_WhatRUtryingtodoAtom917EBBC5475944B832E423A3C8AEC4AA.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/StarterContent/Blueprints/Assets/M_WhatRUtryingtodoAtom.uasset'
+[2026.03.27-06.58.00:897][ 69]LogFileHelpers: InternalPromptForCheckoutAndSave took 457 ms (total: 6.03 sec)
+[2026.03.27-06.58.00:942][ 69]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Blueprints/Assets/M_WhatRUtryingtodoAtom.M_WhatRUtryingtodoAtom
+[2026.03.27-06.58.00:945][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.58.00:945][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.58.01:068][ 69]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.58.01:068][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.58.01:086][ 69]AssetCheck: New page: Asset Save: M_WhatRUtryingtodoAtom
+[2026.03.27-06.58.01:086][ 69]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Blueprints/Assets/M_WhatRUtryingtodoAtom.M_WhatRUtryingtodoAtom
+[2026.03.27-06.58.01:152][ 69]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.01:152][ 69]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.01:152][ 69]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.01:162][ 69]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-06.58.01:256][ 71]MaterialEditorStats: Base pass shader without light map: 100 instructions
+[2026.03.27-06.58.01:256][ 71]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.01:256][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.01:256][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.01:256][ 71]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.03:946][175]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.03:946][175]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.03:946][175]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.04:458][191]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.04:458][191]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.04:458][191]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.04:458][191]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.04:458][191]MaterialEditorStats: Shader Count: 3
+[2026.03.27-06.58.07:177][301]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.07:177][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.07:177][301]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.07:246][303]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.07:246][303]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.07:246][303]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.07:246][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.07:246][303]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.10:807][457]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.10:807][457]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.10:807][457]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.10:849][459]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.10:849][459]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.10:849][459]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.10:849][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.10:849][459]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.15:570][659]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.15:570][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.15:570][659]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.15:612][661]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.15:612][661]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.15:612][661]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.15:612][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.15:612][661]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.16:591][701]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.16:591][701]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.16:591][701]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.16:633][703]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.16:633][703]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.16:633][703]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.16:633][703]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.16:633][703]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.18:572][781]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.18:572][781]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.18:572][781]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.18:633][783]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.18:634][783]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.18:634][783]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.18:634][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.18:634][783]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.27:541][146]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.27:541][146]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.27:541][146]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Total job queries 1,286, among them cache hits 1,214 (94.40%)
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Tracking 72 distinct input hashes that result in 32 distinct outputs (44.44%)
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: RAM used: 1.70 MiB of 1.60 GiB budget. Usage: 0.10%
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Shaders Compiled: 10
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Average time worker was idle: 25.62 s
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.06 s
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 2.16 s
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Job life time (pending + execution): average 1.14 s, max 2.20
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Shader code size: average 33.826 KiB, min 29.613 KiB, max 40.121 KiB
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.14 s
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Average processing rate: 3.19 jobs/sec
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Total thread time: 2.203 s
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Total thread preprocess time: 0.256 s
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Percentage time preprocessing: 11.63%
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Effective parallelization: 0.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.36 sec, min 0.23 sec)
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.28 sec, max 0.34 sec, min 0.21 sec)
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.25 sec, max 0.30 sec, min 0.20 sec)
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2026.03.27-06.58.27:562][147]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2026.03.27-06.58.27:563][147]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.27-06.58.27:563][147]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 26.94% of total time (compiled    2 times, average 0.30 sec, max 0.36 sec, min 0.23 sec)
+[2026.03.27-06.58.27:563][147]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.05% of total time (compiled    2 times, average 0.28 sec, max 0.34 sec, min 0.21 sec)
+[2026.03.27-06.58.27:563][147]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.04% of total time (compiled    2 times, average 0.25 sec, max 0.30 sec, min 0.20 sec)
+[2026.03.27-06.58.27:563][147]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.28% of total time (compiled    2 times, average 0.12 sec, max 0.14 sec, min 0.11 sec)
+[2026.03.27-06.58.27:563][147]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.34% of total time (compiled    1 times, average 0.16 sec, max 0.16 sec, min 0.16 sec)
+[2026.03.27-06.58.27:563][147]LogShaderCompilers: Display: ================================================
+[2026.03.27-06.58.27:586][148]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.27:586][148]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.27:586][148]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.27:586][148]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.27:586][148]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.29:885][243]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.29:885][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.29:885][243]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.29:952][244]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.29:952][244]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.29:952][244]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.29:952][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.29:952][244]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.33:093][370]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.33:093][370]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.33:093][370]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.58.33:138][372]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2026.03.27-06.58.33:138][372]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.58.33:138][372]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.58.33:138][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.58.33:138][372]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.58.54:862][198]LogSlate: Window 'Message' being destroyed
+[2026.03.27-06.58.54:879][198]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Blueprints/Assets/M_WhatRUtryingtodoAtom.M_WhatRUtryingtodoAtom
+(Selecting 'No' will cause all changes to be lost!)
+[2026.03.27-06.58.54:918][198]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-06.58.54:918][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-06.59.00:910][490]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2026.03.27-06.59.00:929][490]LogContentBrowser: Creating deferred item: NewMaterial
+[2026.03.27-06.59.00:958][491]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2026.03.27-06.59.12:822][168]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Huh
+[2026.03.27-06.59.12:825][168]LogContentBrowser: End creating deferred item NewMaterial
+[2026.03.27-06.59.14:240][240]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Huh.M_Huh
+[2026.03.27-06.59.14:245][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-06.59.14:245][240]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-06.59.14:463][240]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.59.14:463][240]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.59.14:463][240]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.59.14:487][240]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-06.59.15:268][267]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.59.15:268][267]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.59.15:268][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.59.15:268][267]MaterialEditorStats: Shader Count: 3
+[2026.03.27-06.59.15:388][272]MaterialEditorStats: Base pass shader: 187 instructions
+[2026.03.27-06.59.15:388][272]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.59.15:388][272]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.59.15:388][272]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.59.15:388][272]MaterialEditorStats: Shader Count: 4
+[2026.03.27-06.59.35:307][154]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-06.59.35:307][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.59.35:307][154]MaterialEditorStats: Shader Count: 0
+[2026.03.27-06.59.35:376][155]MaterialEditorStats: Base pass shader: 193 instructions
+[2026.03.27-06.59.35:376][155]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-06.59.35:376][155]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-06.59.35:376][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-06.59.35:376][155]MaterialEditorStats: Shader Count: 2
+[2026.03.27-07.00.00:991][265]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-07.00.01:003][265]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.00.01:003][265]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.00.01:004][265]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.00.01:213][269]MaterialEditorStats: Base pass shader: 193 instructions
+[2026.03.27-07.00.01:213][269]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.00.01:213][269]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.00.01:213][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.00.01:213][269]MaterialEditorStats: Shader Count: 4
+[2026.03.27-07.00.06:361][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.27-07.00.06:368][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-07.00.06:435][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.27-07.00.06:512][483]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-07.00.06:512][483]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1083E931942F59BABC2B73A9D296B9BF4.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-07.00.06:522][483]LogFileHelpers: Saving map 'Scene_1' took 0.126
+[2026.03.27-07.00.06:532][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SphereEnemy" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset" SILENT=true
+[2026.03.27-07.00.06:538][483]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SphereEnemy
+[2026.03.27-07.00.06:539][483]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_SphereEnemy6F2BF11849FC1B3300F9EE94DCFFB7AB.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_SphereEnemy.uasset'
+[2026.03.27-07.00.06:546][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Huh" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Huh.uasset" SILENT=true
+[2026.03.27-07.00.06:548][483]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Huh
+[2026.03.27-07.00.06:548][483]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_HuhEE8E5F594365FB2BD6A1C49D23438E85.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Huh.uasset'
+[2026.03.27-07.00.06:556][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 6.22 sec)
+[2026.03.27-07.00.06:560][483]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.27-07.00.06:560][483]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-07.00.06:560][483]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_SphereEnemy.BP_SphereEnemy
+[2026.03.27-07.00.06:560][483]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Huh.M_Huh
+[2026.03.27-07.00.31:766][815]LogSlate: Took 0.008160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.27-07.00.54:189][678]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-07.00.56:775][783]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.00.56:775][783]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.00.56:775][783]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.00.57:338][800]MaterialEditorStats: Base pass shader: 194 instructions
+[2026.03.27-07.00.57:338][800]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.00.57:338][800]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.00.57:338][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.00.57:338][800]MaterialEditorStats: Shader Count: 3
+[2026.03.27-07.01.00:706][939]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.01.00:706][939]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.00:706][939]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.01.00:749][941]MaterialEditorStats: Base pass shader: 194 instructions
+[2026.03.27-07.01.00:749][941]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.01.00:749][941]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.01.00:749][941]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.00:749][941]MaterialEditorStats: Shader Count: 4
+[2026.03.27-07.01.05:808][163]LogMaterialEditor: Applying material M_Huh
+[2026.03.27-07.01.05:891][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.27-07.01.06:276][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.03.27-07.01.15:006][478]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.01.15:006][478]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.15:006][478]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.01.15:543][493]MaterialEditorStats: Base pass shader: 198 instructions
+[2026.03.27-07.01.15:543][493]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.01.15:543][493]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.01.15:543][493]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.15:543][493]MaterialEditorStats: Shader Count: 4
+[2026.03.27-07.01.17:030][547]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.01.17:030][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.17:030][547]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.01.17:507][562]MaterialEditorStats: Base pass shader: 197 instructions
+[2026.03.27-07.01.17:507][562]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.01.17:507][562]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.01.17:507][562]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.17:507][562]MaterialEditorStats: Shader Count: 4
+[2026.03.27-07.01.22:852][618]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-07.01.22:863][618]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.01.22:863][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.22:863][618]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.01.22:981][622]MaterialEditorStats: Base pass shader: 197 instructions
+[2026.03.27-07.01.22:981][622]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.01.22:981][622]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.01.22:981][622]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.22:981][622]MaterialEditorStats: Shader Count: 4
+[2026.03.27-07.01.24:165][661]LogMaterialEditor: Applying material M_Huh
+[2026.03.27-07.01.24:253][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.03.27-07.01.24:744][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.27-07.01.45:939][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.03.27-07.01.45:946][685]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-07.01.46:023][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.27-07.01.46:102][685]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-07.01.46:103][685]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_173A10DB245FA22DFE5F4D3B31C3DD6B9.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-07.01.46:112][685]LogFileHelpers: Saving map 'Scene_1' took 0.133
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: ================================================
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Total job queries 1,410, among them cache hits 1,304 (92.48%)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 50 distinct outputs (47.17%)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: RAM used: 2.45 MiB of 1.60 GiB budget. Usage: 0.15%
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Shaders Compiled: 40
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Average time worker was idle: 32.26 s
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.60 s
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 2.16 s
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 2.20
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Shader code size: average 37.264 KiB, min 29.613 KiB, max 60.805 KiB
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.02 s
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Average processing rate: 5.70 jobs/sec
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Total thread time: 11.075 s
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Total thread preprocess time: 1.13 s
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Percentage time preprocessing: 10.20%
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Effective parallelization: 1.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.13% of total time (compiled    6 times, average 0.35 sec, max 0.42 sec, min 0.23 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.00% of total time (compiled    6 times, average 0.31 sec, max 0.36 sec, min 0.21 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.99% of total time (compiled    6 times, average 0.30 sec, max 0.33 sec, min 0.20 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.19% of total time (compiled    6 times, average 0.13 sec, max 0.16 sec, min 0.11 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.75% of total time (compiled    3 times, average 0.18 sec, max 0.19 sec, min 0.16 sec)
+[2026.03.27-07.01.47:041][685]LogShaderCompilers: Display: ================================================
+[2026.03.27-07.01.47:053][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Huh" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Huh.uasset" SILENT=true
+[2026.03.27-07.01.47:055][685]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Huh
+[2026.03.27-07.01.47:055][685]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Huh9E204F204DB14D5B38644184219DE27F.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Huh.uasset'
+[2026.03.27-07.01.47:065][685]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.11 sec (total: 7.34 sec)
+[2026.03.27-07.01.47:066][685]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.27-07.01.47:066][685]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-07.01.47:066][685]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Huh.M_Huh
+[2026.03.27-07.01.47:067][685]MaterialEditorStats: Base pass shader: 197 instructions
+[2026.03.27-07.01.47:067][685]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.01.47:067][685]MaterialEditorStats: MaxSampler: 244 instructions
+[2026.03.27-07.01.47:067][685]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-07.01.47:067][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.01.47:067][685]MaterialEditorStats: Shader Count: 16
+[2026.03.27-07.01.51:959][777]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-07.01.57:278][816]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-07.02.43:303][ 99]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/StarterContent/Shapes/Shape_NarrowCapsule) ...
+[2026.03.27-07.02.46:022][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-07.02.46:069][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ShootPowerUp" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_ShootPowerUp.uasset" SILENT=true
+[2026.03.27-07.02.46:076][199]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ShootPowerUp
+[2026.03.27-07.02.46:076][199]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_ShootPowerUpFE304C1A4198CDFFBBC0F984AB43267B.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_ShootPowerUp.uasset'
+[2026.03.27-07.02.46:087][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 7.41 sec)
+[2026.03.27-07.02.46:089][199]AssetCheck: New page: Asset Save: BP_ShootPowerUp
+[2026.03.27-07.02.46:089][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ShootPowerUp.BP_ShootPowerUp
+[2026.03.27-07.02.47:349][246]BlueprintLog: New page: Compile BP_ShootPowerUp
+[2026.03.27-07.02.47:448][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.27-07.02.59:871][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22094.648438
+[2026.03.27-07.03.00:215][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-07.03.00:216][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22094.958984, Update Interval: 308.089844
+[2026.03.27-07.04.06:396][933]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial/M_Solid_Bullet.M_Solid_Bullet
+[2026.03.27-07.04.06:403][933]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.03.27-07.04.06:403][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.03.27-07.04.06:589][933]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.04.06:589][933]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.04.06:589][933]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.04.06:605][933]LogViewport: Scene viewport resized to 376x444, mode Windowed.
+[2026.03.27-07.04.06:686][935]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-07.04.06:686][935]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.04.06:686][935]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.04.06:686][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.04.06:686][935]MaterialEditorStats: Shader Count: 4
+[2026.03.27-07.05.00:518][ 15]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-07.05.00:529][ 15]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.05.00:529][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.05.00:529][ 15]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: ================================================
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Total job queries 1,420, among them cache hits 1,314 (92.54%)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Tracking 106 distinct input hashes that result in 50 distinct outputs (47.17%)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: RAM used: 2.45 MiB of 1.60 GiB budget. Usage: 0.15%
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Shaders Compiled: 40
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Jobs assigned 40, completed 40 (100%)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Average time worker was idle: 32.26 s
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.60 s
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Job execution time: average 0.62 s, max 2.16 s
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Job life time (pending + execution): average 0.70 s, max 2.20
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Shader code size: average 37.264 KiB, min 29.613 KiB, max 60.805 KiB
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.02 s
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Average processing rate: 5.70 jobs/sec
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Total thread time: 11.075 s
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Total thread preprocess time: 1.13 s
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Percentage time preprocessing: 10.20%
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Effective parallelization: 1.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.42 sec, max 0.42 sec, min 0.42 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.41 sec, max 0.41 sec, min 0.41 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.40 sec, max 0.40 sec, min 0.40 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 0.39 sec, max 0.39 sec, min 0.39 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.13% of total time (compiled    6 times, average 0.35 sec, max 0.42 sec, min 0.23 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.00% of total time (compiled    6 times, average 0.31 sec, max 0.36 sec, min 0.21 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.99% of total time (compiled    6 times, average 0.30 sec, max 0.33 sec, min 0.20 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.19% of total time (compiled    6 times, average 0.13 sec, max 0.16 sec, min 0.11 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.75% of total time (compiled    3 times, average 0.18 sec, max 0.19 sec, min 0.16 sec)
+[2026.03.27-07.05.00:553][ 16]LogShaderCompilers: Display: ================================================
+[2026.03.27-07.05.00:734][ 19]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-07.05.00:735][ 19]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.05.00:735][ 19]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.05.00:735][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.05.00:735][ 19]MaterialEditorStats: Shader Count: 4
+[2026.03.27-07.05.03:055][107]LogMaterialEditor: Applying material M_Solid_Bullet
+[2026.03.27-07.05.03:192][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2026.03.27-07.05.03:363][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.03.27-07.05.24:990][537]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-07.05.25:002][537]MaterialEditorStats: Texture samplers: 0/16
+[2026.03.27-07.05.25:002][537]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.05.25:002][537]MaterialEditorStats: Shader Count: 0
+[2026.03.27-07.05.25:205][541]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-07.05.25:205][541]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.05.25:205][541]MaterialEditorStats: Texture samplers: 2/16
+[2026.03.27-07.05.25:205][541]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.05.25:205][541]MaterialEditorStats: Shader Count: 4
+[2026.03.27-07.05.26:230][580]LogMaterialEditor: Applying material M_Solid_Bullet
+[2026.03.27-07.05.26:342][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.03.27-07.05.26:506][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.27-07.05.49:935][462]BlueprintLog: New page: Compile BP_ShootPowerUp
+[2026.03.27-07.05.50:025][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.27-07.06.01:714][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-07.06.01:810][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ShootPowerUp" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_ShootPowerUp.uasset" SILENT=true
+[2026.03.27-07.06.01:814][ 49]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ShootPowerUp
+[2026.03.27-07.06.01:815][ 49]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_ShootPowerUp1E945912487FF750AB3E03B222288E5E.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_ShootPowerUp.uasset'
+[2026.03.27-07.06.01:831][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 7.52 sec)
+[2026.03.27-07.06.01:833][ 49]AssetCheck: New page: Asset Save: BP_ShootPowerUp
+[2026.03.27-07.06.01:833][ 49]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ShootPowerUp.BP_ShootPowerUp
+[2026.03.27-07.06.05:269][148]LogEditorTransaction: Undo Modify Component(s)
+[2026.03.27-07.06.18:484][607]BlueprintLog: New page: Compile BP_ShootPowerUp
+[2026.03.27-07.06.18:586][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.03.27-07.06.27:729][ 58]Cmd: TRANSACTION UNDO
+[2026.03.27-07.06.27:729][ 58]LogEditorTransaction: Undo Move Elements
+[2026.03.27-07.06.31:831][227]Cmd: TRANSACTION UNDO
+[2026.03.27-07.06.31:831][227]LogEditorTransaction: Undo Move Elements
+[2026.03.27-07.06.43:493][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-07.06.43:575][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.03.27-07.06.43:656][769]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-07.06.43:657][769]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_1A1BE458544EF1B25B1DAB08A282D5025.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-07.06.43:665][769]LogFileHelpers: Saving map 'Scene_1' took 0.136
+[2026.03.27-07.06.43:673][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 7.70 sec)
+[2026.03.27-07.06.43:676][769]AssetCheck: New page: Asset Save: Scene_1
+[2026.03.27-07.06.43:676][769]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-07.07.25:188][958]LogSlate: Window 'Widget Reflector' being destroyed
+[2026.03.27-07.07.25:199][958]LogSlate: Window 'Widget Reflector' being destroyed
+[2026.03.27-07.07.26:199][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.03.27-07.07.26:207][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-07.07.26:290][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.27-07.07.26:373][ 11]LogSavePackage: Moving output files for package: /Game/Scenes/Scene_1
+[2026.03.27-07.07.26:373][ 11]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/Scene_14E886EA749A0A3AE42DA3AB9E14D2F13.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Scenes/Scene_1.umap'
+[2026.03.27-07.07.26:383][ 11]LogFileHelpers: Saving map 'Scene_1' took 0.140
+[2026.03.27-07.07.26:437][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial/M_Solid_Bullet" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_Bullet.uasset" SILENT=true
+[2026.03.27-07.07.26:441][ 11]LogSavePackage: Moving output files for package: /Game/NewMaterial/M_Solid_Bullet
+[2026.03.27-07.07.26:441][ 11]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/M_Solid_Bullet33CCDE784F898CB55D9A57BE60D145BD.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/NewMaterial/M_Solid_Bullet.uasset'
+[2026.03.27-07.07.26:453][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_ShootPowerUp" FILE="../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_ShootPowerUp.uasset" SILENT=true
+[2026.03.27-07.07.26:459][ 11]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_ShootPowerUp
+[2026.03.27-07.07.26:459][ 11]LogSavePackage: Moving '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Saved/BP_ShootPowerUp39331DBD4A159563F7981AAF2559E2C6.tmp' to '../../../../../CMU/VistualScript/FinalProject/Cube-de-Escape/CubedeEscape/Content/Blueprints/BP_ShootPowerUp.uasset'
+[2026.03.27-07.07.26:477][ 11]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 7.97 sec)
+[2026.03.27-07.07.26:479][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2026.03.27-07.07.26:479][ 11]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/Scene_1.Scene_1
+[2026.03.27-07.07.26:479][ 11]LogContentValidation: Display: Validating /Script/Engine.Material /Game/NewMaterial/M_Solid_Bullet.M_Solid_Bullet
+[2026.03.27-07.07.26:479][ 11]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_ShootPowerUp.BP_ShootPowerUp
+[2026.03.27-07.07.26:480][ 11]MaterialEditorStats: Base pass shader: 196 instructions
+[2026.03.27-07.07.26:480][ 11]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2026.03.27-07.07.26:480][ 11]MaterialEditorStats: MaxSampler: 244 instructions
+[2026.03.27-07.07.26:480][ 11]MaterialEditorStats: Base pass vertex shader: 273 instructions
+[2026.03.27-07.07.26:480][ 11]MaterialEditorStats: Texture samplers: 3/16
+[2026.03.27-07.07.26:480][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.03.27-07.07.26:480][ 11]MaterialEditorStats: Shader Count: 30
